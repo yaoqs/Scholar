@@ -1,7 +1,9 @@
 # Scholar
-Scientific/Academic/Scholarly Research. 科研学术
-{TOC]
+Scientific/Academic/Scholarly Research. 科研学术 \
+[TOC]
 ## GET: Search for papers/检索论文
+### Literature search/文献检索
+
 ### Library
 * [数学统计学经管等学科中英文献检索、获取与免费下载的技巧.pdf](http://blog.sciencenet.cn/blog-752541-932428.html)
   > From 北京大学数学科学学院 [张慧铭(Huiming Zhang)](http://scholar.pku.edu.cn/zhanghuiming)http://blog.sciencenet.cn/u/a3141592653589
