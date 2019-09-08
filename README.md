@@ -2,7 +2,8 @@
 Scientific/Academic/Scholarly Research. 科研学术 \
 [TOC]
 ## GET: Search for papers/检索论文
-### [Literature search/文献检索](https://github.com/yaoqs/Scholar/blob/master/%E6%96%87%E7%8C%AE%E6%A3%80%E7%B4%A2.md)
+### Literature search/
++ [文献检索索引](https://github.com/yaoqs/Scholar/blob/master/%E6%96%87%E7%8C%AE%E6%A3%80%E7%B4%A2.md)
 
 ### Library
 * [数学统计学经管等学科中英文献检索、获取与免费下载的技巧.pdf](http://blog.sciencenet.cn/blog-752541-932428.html)
