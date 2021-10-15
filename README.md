@@ -10,11 +10,11 @@ Document Retrieval; Documentation Retrieval; Literature Search; Literature Retri
 
 # GET: Search for papers/科研文献检索
 ## 国家自然科学基金
-http://www.nsfc.gov.cn/
+<http://www.nsfc.gov.cn/>
 
 ## 搜索引擎
 ### 谷歌学术
-https://scholar.google.com
+<https://scholar.google.com>
 Google学术搜索是一项免费服务，可以快速寻找学术资料，如 专家评审文献、论文、书籍、预印本、摘要以及技术报告。 Google学术搜索涵盖了多方面 的信息，信息来源包括万方数据资源系统、维普资讯、主要大学发表的学术期刊、公开的学术期刊、中国大学的论文以及网 上可以搜索到的各类文章。Google Scholar同时提供中英文版界 面，能供中国用户更方便地搜索全球的学术科研信息。 
 镜像 **思谋学术**：提供谷歌学术和网页搜索的镜像网站导航,并自动检测和更新可以访问的谷歌镜像网址。http://ac.scmor.com/
 ### 搜狗学术
