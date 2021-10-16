@@ -5,6 +5,7 @@ Document Retrieval; Documentation Retrieval; Literature Search; Literature Retri
 
 ## License & Copyright
 * 版权声明：Copyright © 2021 要庆生. All rights reserved. 未经本人同意请勿转载。经本人同意后转载时请注明出处。
+* 来源：网络搜集及自我整理
 * https://choosealicense.com/licenses/cc-by-sa-4.0/ ![](https://csdnimg.cn/release/phoenix/images/creativecommons/80x15.png)\
 知识共享许可协议 版权声明：署名，允许他人基于本文进行创作，且必须基于与原先许可协议相同的许可协议分发本文([Creative Commons](http://creativecommons.org/licenses/by-sa/4.0/ ))
 * 不足及错漏之处，请包涵指正，可在线留言或Email mailto:350788415@qq.com
@@ -15,7 +16,14 @@ Document Retrieval; Documentation Retrieval; Literature Search; Literature Retri
 <http://www.nsfc.gov.cn/>
 
 ## 搜索引擎
-### 谷歌学术
+### Google
+1. 科学上网(梯子请自备)
+2. 镜像
+3. 修改hosts（C:\WINDOWS\system32\drivers\etc ）
+4. 代理
+#### 谷歌图书
+<http://books.google.com/>
+#### 谷歌学术
 + <https://scholar.google.com>
 + 镜像 **思谋学术**：<http://ac.scmor.com/>
 + 镜像 <http://dir.scmor.com/>
@@ -23,32 +31,27 @@ Document Retrieval; Documentation Retrieval; Literature Search; Literature Retri
 <https://scholar.sogou.com/>
 ### bing学术
 <https://cn.bing.com/academic>
-
 ### 百度学术
 <http://xueshu.baidu.com/>
-
 ### 360学术
 <http://xueshu.so.com/>
 
-### Google
-1. 科学上网(梯子请自备)
-2. 镜像
-3. 修改hosts（C:\WINDOWS\system32\drivers\etc ）
-4. 代理
-### 谷歌图书
-<http://books.google.com/>
-
-
 ## 专业资料库
-> 引文索引SCI  
-> SCI(Science Citation Index)是由美国科学信息研究 所(ISI)1961年创办出版的引文数据库。SCI(科学 引文索引)、EI(工程索引 )、ISTP(科技会议录索引 ) 是世界著名的三大科技文献检索系统，是国际公 认的进行科学统计与科学评价的主要检索工具， 其中以SCI最为重要。  SCI是一部国际性索引，包括有：自然科学、生物 、医学、农业、技术和行为科学等，主要侧重基 础科学。所选用的刊物来源于94个类、40多个国 家、50多种文字，这些国家主要有美国、英国、 荷兰、德国、俄罗斯、法国、日本、加拿大等， 也收录一定数量的中国刊物。
-> 引文索引SSCI 
-> Social Science Citation Index (SSCI,1983-)—  社会科学引文索引网络版(Web of Science)  中文可以理解为社会科学引文索引，与“ SCI” 一样同为美国科学信息 研究所创建，现收录了世界上、不同国家和地区的社会科学期刊和论 文，进行一定的统计分析，并划分为不同的因子区间，是当今社会科 学领域重要的期刊检索与论文参考渠道。 1999 年 SSCI 全文收录 1809 种 世界最重要的社会科学期刊，内容覆盖包括人类学、法律、经济、历 史、地理、心理学等 55 个领域。收录文献类型包括：研究论文，书评 ，专题讨论，社论，人物自传，书信等。选择收录 (Selectively Covered) 期刊为 1300 多种。  是ISI核心的三大引文索引(SCI、EI、ISTP )数据 库之一，收录社会科学领域内1,700多种最具影响 力的学术刊物。  数据年限从1983年至今。
-> ISTP（科技会议录索引）
- 《科技会议录索引》（Index to Scientific & Technical Proceedings，简称ISTP）创刊于 1978年，由美国科学情报研究所编辑出版 。该索引收录生命科学、物理与化学科学 、农业、生物和环境科学、工程技术和应 用科学等学科的会议文献，包括一般性会 议、座谈会、研究会、讨论会、发表会等 。其中工程技术与应用科学类文献约占35% ，其他涉及学科基本与SCI相同。
-> EI《工程索引》
-Ei 是 Engineering Index的简称。1884年由美国工程信息公司创办。 Ei 数据库收录了1969年以来全世界工程领域内5,100种期刊、1500余种会议录 以及科技报告等的900万条数据。是工程技术领域世界最权威的检索工具。 ——机械工程、机电工程、船舶工程、制造技术等； ——矿业、冶金、材料工程、金属材料、有色金属、陶瓷等； ——土木工程、建筑工程、结构工程、海洋工程、水利工程等； ——电气工程、电厂、通讯、计算技术、软件、航空航天技术等； ——化学工程、石油化工、燃烧技术、生物技术、轻工纺织、食品工业； ——工程管理。
-<https://www.engineeringvillage.com/search/quick.url>
+- 引文索引SCI 
+  - SCI(Science Citation Index)是由美国科学信息研究 所(ISI)1961年创办出版的引文数据库。SCI(科学 引文索引)、EI(工程索引 )、ISTP(科技会议录索引 ) 是世界著名的三大科技文献检索系统，是国际公 认的进行科学统计与科学评价的主要检索工具， 其中以SCI最为重要。  SCI是一部国际性索引，包括有：自然科学、生物 、医学、农业、技术和行为科学等，主要侧重基 础科学。所选用的刊物来源于94个类、40多个国 家、50多种文字，这些国家主要有美国、英国、 荷兰、德国、俄罗斯、法国、日本、加拿大等， 也收录一定数量的中国刊物。
+- 引文索引SSCI
+  - Social Science Citation Index (SSCI,1983-)—  社会科学引文索引网络版(Web of Science)  中文可以理解为社会科学引文索引，与“ SCI” 一样同为美国科学信息 研究所创建，现收录了世界上、不同国家和地区的社会科学期刊和论 文，进行一定的统计分析，并划分为不同的因子区间，是当今社会科 学领域重要的期刊检索与论文参考渠道。 1999 年 SSCI 全文收录 1809 种 世界最重要的社会科学期刊，内容覆盖包括人类学、法律、经济、历 史、地理、心理学等 55 个领域。收录文献类型包括：研究论文，书评 ，专题讨论，社论，人物自传，书信等。选择收录 (Selectively Covered) 期刊为 1300 多种。  是ISI核心的三大引文索引(SCI、EI、ISTP )数据 库之一，收录社会科学领域内1,700多种最具影响 力的学术刊物。  数据年限从1983年至今。
+- ISTP（科技会议录索引）
+  - 《科技会议录索引》（Index to Scientific & Technical Proceedings，简称ISTP）创刊于 1978年，由美国科学情报研究所编辑出版 。该索引收录生命科学、物理与化学科学 、农业、生物和环境科学、工程技术和应 用科学等学科的会议文献，包括一般性会 议、座谈会、研究会、讨论会、发表会等 。其中工程技术与应用科学类文献约占35% ，其他涉及学科基本与SCI相同。
+- EI《工程索引》
+  - Ei 是 Engineering Index的简称。1884年由美国工程信息公司创办。 Ei 数据库收录了1969年以来全世界工程领域内5,100种期刊、1500余种会议录 以及科技报告等的900万条数据。是工程技术领域世界最权威的检索工具。<https://www.engineeringvillage.com/search/quick.url>
+    - 机械工程、机电工程、船舶工程、制造技术等；
+    - 矿业、冶金、材料工程、金属材料、有色金属、陶瓷等；
+    - 土木工程、建筑工程、结构工程、海洋工程、水利工程等；
+    - 电气工程、电厂、通讯、计算技术、软件、航空航天技术等；
+    - 化学工程、石油化工、燃烧技术、生物技术、轻工纺织、食品工业；
+    - 工程管理。
+
 
 
 ### SCI/SSCI检索界面 
@@ -57,19 +60,16 @@ Document Retrieval; Documentation Retrieval; Literature Search; Literature Retri
 
 ### Web of Science
 <http://www.webofscience.com/>
-访问入口2：CSCD中国科学引文数据库 <http://www.webofknowledge.com/?DestApp=CSCD>
- 访问入口3：DII德温特世界专利数据库 <http://www.webofknowledge.com/?DestApp=DIIDW>
+- 访问入口2：CSCD中国科学引文数据库 <http://www.webofknowledge.com/?DestApp=CSCD>
+- 访问入口3：DII德温特世界专利数据库 <http://www.webofknowledge.com/?DestApp=DIIDW>
 汤森路透公司强大的引文数据库，同样需要机构注册。传说中的SCI查询网站，在这个网站的Journal Citation Reports里可以直接查询出来，这个网站也可以查询国外的专利，选择Derwent数据库就可以了
 [more...](http://tushuguan.nwpu.edu.cn/info/1670/3653.htm)
 ### [Science Citation Index (SCI,1900-)--科学引文索引网络版(Web of Science)](http://apps.webofknowledge.com/WOS_GeneralSearch_input.do?product=WOS&search_mode=GeneralSearch&SID=4DPnQUnvEzALpdSiOip&preferencesSaved= )
 
 ### sci-hub.io
-另一个网址后缀是 http://sci-hub.cc，http://www.sci-hub.org/ 是哈萨克斯坦牛人开发的可以下载任意谷歌上有电子版链接文献杂志的网站，只要输入你想要下载的文献链接就可以获取到该文献的真实地址并在线浏览，当然更重要的是可以下载。这个是俄罗斯的某黑客给弄的. 原理好像是类似于RVPN, 借用有权限的学校的IP给我们下载相关文献. 适用于所有杂志, 只有极少数的还是不能下载 ![](http://image.sciencenet.cn/album/201608/10/115853nis0lle9my9aw99d.jpg)
- | | | 
- | :------ | :------ | 
- | http://sci-hub.hk/ | http://sci-hub.tv/ |
- | https://sci-hub.name/ | http://80.82.77.83/ | 
- | http://80.82.77.84/ | |
+ <http://sci-hub.cc>，<http://www.sci-hub.org/> 
+ <img src="http://image.sciencenet.cn/album/201608/10/115853nis0lle9my9aw99d.jpg"/>
+
 ### Scopus
 <https://www.scopus.com>
 全世界最大的摘要和引文数据库，涵盖了15000种科学、技术及医学方面的期刊
@@ -100,15 +100,14 @@ Semantic Scholar is a free, nonprofit, academic search engine from AI2. We've pu
 可以通过社交网络和数据挖掘统计出你想搜索的话题下面的专家和文章，对于进行以主题为目标的搜索非常有用
 ### Engineering Village（美国工程索引）
 <http://www.engineeringvillage.com/>
-它是最权威的工程、应用科学领域文献检索平台。但是，没有全文
+它是最权威的工程、应用科学领域文献检索平台。
 ### wiley online library
 <https://onlinelibrary.wiley.com/>
 John Wiley & Sons Inc. 约翰威立国际出版公司1807年创建 于美国，是全球知名的出版机构，面向专业人士、科研人 员、教育工作者、学生、终身学习者提供必需的知识和服 务。其出版物学科范围包括化学、物理、工程、农业、兽 医学、食品科学、医学、护理、口腔、生命科学、心理、 商业、经济、社会科学、艺术、人类学等多个学科大概 1500多种期刊，以及很多其它重要的跨学科领域出版的期 刊。 目前共有1156种期刊（占所出版期刊总数的76%） 收录在Thomson ISI® 2011年期刊引用报告（JCR）中。 我 馆购置了其中的理工类期刊数据库及部分人文社科类电子 期刊。
 ### arxiv.org 
 <https://arxiv.org/>
-电子预印版论文。
-康奈尔大学。 
-这个网站是用来**占坑**和查阅**最新的idea**的，避免直接投期刊或者会议经过漫长的等待后出现不可预知的情况，当然你也可以在上面查阅最新的别人的idea，甚至可以直接引用它。领域涵盖物理学、数学、非线性科学、计 算机科学、定量生命科学、计量金融学和统计学。发表arXiv的论 文不需要通过审核，因此被用作发表手稿或者预出版的论文。由 于论文的审核工作一般需要几个月的时间，最新的研究结果发表 到学术期刊上时已经失去了一定的时效性。由于论文没有通过审 核，读者应当更加谨慎地对待。访问和下载arXiv上的文献是完全 免费的，不需要登录或者其他形式的认证。 • ArXiv每个工作日都有很多新文献出现。以归类在高能物理理论的 文献为例，每个工作日新发表或者更新的文献大约为70篇。通过 电子邮件邮箱可以注册arXiv帐号，并且推荐使用.**edu的电子邮件**服务。 
+电子预印版论文。康奈尔大学。 
+这个网站是用来**占坑**和查阅**最新的idea**的，避免直接投期刊或者会议经过漫长的等待后出现不可预知的情况，当然你也可以在上面查阅最新的别人的idea，甚至可以直接引用它。领域涵盖物理学、数学、非线性科学、计 算机科学、定量生命科学、计量金融学和统计学。发表arXiv的论 文不需要通过审核，因此被用作发表手稿或者预出版的论文。由于论文的审核工作一般需要几个月的时间，最新的研究结果发表 到学术期刊上时已经失去了一定的时效性。由于论文没有通过审 核，读者应当更加谨慎地对待。访问和下载arXiv上的文献是完全 免费的，不需要登录或者其他形式的认证。 • ArXiv每个工作日都有很多新文献出现。以归类在高能物理理论的 文献为例，每个工作日新发表或者更新的文献大约为70篇。通过电子邮件邮箱可以注册arXiv帐号，并且推荐使用.**edu的电子邮件**服务。 
 ### Worldscinet世界科学出版社电子期刊
 • WorldSciNet为新加坡World Scientific Publishing Co. 电子期刊发行网站，目前提供107种全文电子期刊， 涵盖数学、物理、化学、生物、医学、材料、环境、 计算机、工程、经济、社会科学等领域。 
 • <http://worldscinet.lib.tsinghua.edu.cn/>
@@ -210,7 +209,6 @@ http://www.cnki.net/
 ## 集成
 ### 学术搜索
 <http://www.ilkhome.cn/science/learn/>
-站在巨人的肩膀上,一个学术搜索的集成
 
 ## 科研社交网络服务
 ### Research gate
