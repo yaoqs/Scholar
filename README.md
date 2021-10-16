@@ -16,29 +16,26 @@ Document Retrieval; Documentation Retrieval; Literature Search; Literature Retri
 
 ## 搜索引擎
 ### 谷歌学术
-<https://scholar.google.com>
-Google学术搜索是一项免费服务，可以快速寻找学术资料，如 专家评审文献、论文、书籍、预印本、摘要以及技术报告。 Google学术搜索涵盖了多方面 的信息，信息来源包括万方数据资源系统、维普资讯、主要大学发表的学术期刊、公开的学术期刊、中国大学的论文以及网 上可以搜索到的各类文章。Google Scholar同时提供中英文版界 面，能供中国用户更方便地搜索全球的学术科研信息。 
-镜像 **思谋学术**：提供谷歌学术和网页搜索的镜像网站导航,并自动检测和更新可以访问的谷歌镜像网址。http://ac.scmor.com/
++ <https://scholar.google.com>
++ 镜像 **思谋学术**：<http://ac.scmor.com/>
++ 镜像 <http://dir.scmor.com/>
 ### 搜狗学术
 <https://scholar.sogou.com/>
-首页就列出了如《Nature》和《Science》等权威学术期刊的网站，据说它引入了微软必应的全量学术数据库
 ### bing学术
 <https://cn.bing.com/academic>
-首页主要包含一些会议的举办日及投稿截止日等
+
 ### 百度学术
 <http://xueshu.baidu.com/>
-首页标注论文查重功能、开题分析、学者主页、文献互助等
+
 ### 360学术
 <http://xueshu.so.com/>
-### 谷歌镜像网址
-<http://dir.scmor.com/google/>
-除非翻墙，目前只能通过谷歌镜像进入谷歌学术搜索页面，点击如下任意网址进入谷歌学术搜索页面。也可通过跟踪HTML,然后点击pdf直接下载，利用Google搜索看看,能得到你意想不到的结果
+
 ### Google
 1. 科学上网(梯子请自备)
 2. 镜像
 3. 修改hosts（C:\WINDOWS\system32\drivers\etc ）
-4. 代理（蓝灯）
-谷歌图书
+4. 代理
+### 谷歌图书
 <http://books.google.com/>
 
 
