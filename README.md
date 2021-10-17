@@ -32,6 +32,11 @@ Document Retrieval; Documentation Retrieval; Literature Search; Literature Retri
 ## MIT Technology review 麻省理工技术评论
 - <https://www.technologyreview.com/>
 
+## 各领域期刊会议
+- IEEE <https://www.ieee.org/>
+- Acoustics/声学 <https://yaoqs.github.io/Acoustics/>
+- 其他待补充...
+
 # GET: Search for papers/科研文献检索
 文献获取与免费下载技巧
 - 利用校园网下载
@@ -316,9 +321,6 @@ MOOC中国是收录全球优秀开放式在线课程的中文慕课网
 - <http://gen.lib.rus.ec/>， <http://libgen.io/> , <https://libgen.pw/> 
 - 帮助全人类知识无版权传播的计划 - Library Genesis
 
-## 各领域期刊会议
-- IEEE <https://www.ieee.org/>
-- 其他待补充...
 
 # POST: Paper submission/论文投稿
 ### 一篇文章告诉你：SCI论文投稿流程到底是怎么一回事儿--[网摘]
