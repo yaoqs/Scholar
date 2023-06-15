@@ -1,444 +1,287 @@
 # Scholar
+<a id="markdown-scholar" name="scholar"></a>
+
 
 Scientific/Academic/Scholarly Research. 科研学术 \
 Document Retrieval; Documentation Retrieval; Literature Search; Literature Retrieval.文献检索
 
-[ToC]
+<!-- TOC -->
+
+- [Scholar](#scholar)
+    - [License & Copyright](#license--copyright)
+- [基金申请/Proposal](#%E5%9F%BA%E9%87%91%E7%94%B3%E8%AF%B7proposal)
+- [Journal/期刊、会议](#journal%E6%9C%9F%E5%88%8A%E4%BC%9A%E8%AE%AE)
+    - [公认的世界四大名刊](#%E5%85%AC%E8%AE%A4%E7%9A%84%E4%B8%96%E7%95%8C%E5%9B%9B%E5%A4%A7%E5%90%8D%E5%88%8A)
+    - [MIT Technology review 麻省理工技术评论](#mit-technology-review-%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E6%8A%80%E6%9C%AF%E8%AF%84%E8%AE%BA)
+    - [各领域期刊会议](#%E5%90%84%E9%A2%86%E5%9F%9F%E6%9C%9F%E5%88%8A%E4%BC%9A%E8%AE%AE)
+- [GET: Search for papers/科研文献检索](#get-search-for-papers%E7%A7%91%E7%A0%94%E6%96%87%E7%8C%AE%E6%A3%80%E7%B4%A2)
+    - [专业引文索引介绍](#%E4%B8%93%E4%B8%9A%E5%BC%95%E6%96%87%E7%B4%A2%E5%BC%95%E4%BB%8B%E7%BB%8D)
+    - [出版机构](#%E5%87%BA%E7%89%88%E6%9C%BA%E6%9E%84)
+    - [订阅](#%E8%AE%A2%E9%98%85)
+    - [检索](#%E6%A3%80%E7%B4%A2)
+    - [搜索引擎](#%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E)
+    - [科研社交网络服务](#%E7%A7%91%E7%A0%94%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%BB%9C%E6%9C%8D%E5%8A%A1)
+    - [论坛](#%E8%AE%BA%E5%9D%9B)
+    - [公开课](#%E5%85%AC%E5%BC%80%E8%AF%BE)
+    - [图书馆](#%E5%9B%BE%E4%B9%A6%E9%A6%86)
+    - [高校课程共享计划](#%E9%AB%98%E6%A0%A1%E8%AF%BE%E7%A8%8B%E5%85%B1%E4%BA%AB%E8%AE%A1%E5%88%92)
+    - [图书](#%E5%9B%BE%E4%B9%A6)
+        - [谷歌图书](#%E8%B0%B7%E6%AD%8C%E5%9B%BE%E4%B9%A6)
+        - [全国图书联盟](#%E5%85%A8%E5%9B%BD%E5%9B%BE%E4%B9%A6%E8%81%94%E7%9B%9F)
+        - [ZLibrary](#zlibrary)
+        - [Library Genesis](#library-genesis)
+- [POST: Paper submission/论文投稿](#post-paper-submission%E8%AE%BA%E6%96%87%E6%8A%95%E7%A8%BF)
+        - [一篇文章告诉你：SCI论文投稿流程到底是怎么一回事儿--[网摘]](#%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%E5%91%8A%E8%AF%89%E4%BD%A0sci%E8%AE%BA%E6%96%87%E6%8A%95%E7%A8%BF%E6%B5%81%E7%A8%8B%E5%88%B0%E5%BA%95%E6%98%AF%E6%80%8E%E4%B9%88%E4%B8%80%E5%9B%9E%E4%BA%8B%E5%84%BF--%E7%BD%91%E6%91%98)
+        - [算法助你发表一些牛逼的论文](#%E7%AE%97%E6%B3%95%E5%8A%A9%E4%BD%A0%E5%8F%91%E8%A1%A8%E4%B8%80%E4%BA%9B%E7%89%9B%E9%80%BC%E7%9A%84%E8%AE%BA%E6%96%87)
+
+<!-- /TOC -->
 
 ## License & Copyright
+<a id="markdown-license-%26-copyright" name="license-%26-copyright"></a>
 
-* 版权声明：Copyright © 2021 要庆生. All rights reserved. 未经本人同意请勿转载。经本人同意后转载时请注明出处。
-* 来源：网络及个人搜集及整理
-* <https://choosealicense.com/licenses/cc-by-sa-4.0/> ![](https://csdnimg.cn/release/phoenix/images/creativecommons/80x15.png)\
+
+- 版权声明：Copyright © 2021-2023 要庆生. All rights reserved. 未经本人同意请勿转载。经本人同意后转载时请注明出处。
+- 来源：网络及个人搜集及整理
+- [![GitHub license](https://badgen.net/github/license/yaoqs/Scholar)](https://github.com/yaoqs/Scholar/blob/master/LICENSE) [![GitHub license](https://img.shields.io/github/license/yaoqs/Scholar.svg)](https://github.com/yaoqs/Scholar/blob/master/LICENSE)
 知识共享许可协议 版权声明：署名，允许他人基于本文进行创作，且必须基于与原先许可协议相同的许可协议分发本文([Creative Commons](http://creativecommons.org/licenses/by-sa/4.0/ ))
-* 业余时间所作，难免有不足及错漏之处，敬请包涵指正，可通过github仓库在线留言或Email <mailto>350788415@qq.com</mailto>告知；如需补充其他相关专业信息，亦可邮件通知或github仓库在线留言；同时欢迎各位热心人士star、fork或共同参与维护仓库
-* <span id="busuanzi_container_site_pv">A total of <span id="busuanzi_value_site_pv"></span> visits. <span id="busuanzi_value_page_pv"></span> visits to this page.</span><script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script><div id="Statistics"><script>var cnzz_protocol="https:"==document.location.protocol?"https://":"http://";document.write(unescape("%3Cspan id='cnzz_stat_icon_1278269244'%3E%3C/span%3E%3Cscript src='"+cnzz_protocol+"s4.cnzz.com/z_stat.php%3Fid%3D1278269244%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"))</script><script>var cnzz_protocol="https:"==document.location.protocol?"https://":"http://";document.write(unescape("%3Cspan id='cnzz_stat_icon_1278269244'%3E%3C/span%3E%3Cscript src='"+cnzz_protocol+"s4.cnzz.com/z_stat.php%3Fid%3D1278269244%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"))</script><script src="https://tajs.qq.com/stats?sId=66496804" charset="UTF-8"></script><script>var _hmt=_hmt||[];!function(){var e=document.createElement("script");e.src="https://hm.baidu.com/hm.js?2023f967cb85513ede1b6a3d58177776";var t=document.getElementsByTagName["script"](0);t.parentNode.insertBefore(e,t)}()</script><a target="_blank" rel="noopener" href="https://info.flagcounter.com/tQfY"><img src="https://s11.flagcounter.com/mini/tQfY/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/" alt="Flag Counter" border="0"></a><script>!function(e,n,c,t,s,o){e[t]=e[t]||function(){(e[t].c=e[t].c||[]).push(arguments)},e[t].s=!1,s=n.getElementsByTagName[c](0),(o=n.createElement(c)).src="//s.union.360.cn/332983.js",o.defer=!0,o.async=!0,s.parentNode.insertBefore(o,s)}(window,document,"script","_qha")</script><script src="https://js.users.51.la/20526175.js"></script></div>
+- 业余时间所作，难免有不足及错漏之处，敬请包涵指正，可通过github仓库在线留言或Email <mailto>350788415@qq.com</mailto>告知；如需补充其他相关专业信息，亦可邮件通知或github仓库在线留言；同时欢迎各位热心人士star、fork或共同参与维护仓库
 
 # 基金申请/Proposal
+<a id="markdown-%E5%9F%BA%E9%87%91%E7%94%B3%E8%AF%B7%2Fproposal" name="%E5%9F%BA%E9%87%91%E7%94%B3%E8%AF%B7%2Fproposal"></a>
 
-## 国家自然科学基金
-
-* <http://www.nsfc.gov.cn/>
+- [国家自然科学基金](https://www.nsfc.gov.cn/)
 
 # Journal/期刊、会议
+<a id="markdown-journal%2F%E6%9C%9F%E5%88%8A%E3%80%81%E4%BC%9A%E8%AE%AE" name="journal%2F%E6%9C%9F%E5%88%8A%E3%80%81%E4%BC%9A%E8%AE%AE"></a>
+
 
 ## 公认的世界四大名刊
+<a id="markdown-%E5%85%AC%E8%AE%A4%E7%9A%84%E4%B8%96%E7%95%8C%E5%9B%9B%E5%A4%A7%E5%90%8D%E5%88%8A" name="%E5%85%AC%E8%AE%A4%E7%9A%84%E4%B8%96%E7%95%8C%E5%9B%9B%E5%A4%A7%E5%90%8D%E5%88%8A"></a>
 
-* Nature
-  * <https://www.nature.com>
 
-* Science
-  * <https://www.sciencemag.org/>
-* Cell
-  * <https://www.cell.com/>
-  * 同行评审科学期刊，主要发表生命科学领域中的最新研究发现
-* PNAS
-  * <https://www.pnas.org/>
-  * PNAS《美国科学院院报》（Proceedings of the National Academy of Sciences of the United States of America）是被引用次数最多的 综合学科文献之一，它是美国国家科学院的院刊，自1914年创刊 至今，PNAS提供具有高水平的前沿研究报告、学术评论、学科回顾及前瞻、学术论文以及美国国家科学学会学术动态的报道和 出版。PNAS收录的文献涵盖医学、化学、生物、物理、大气科学、生态学和社会科学、数据科学等。
+- Nature
+  - <https://www.nature.com>
+
+- Science
+  - <https://www.sciencemag.org/>
+- Cell
+  - <https://www.cell.com/>
+  - 同行评审科学期刊，主要发表生命科学领域中的最新研究发现
+- PNAS
+  - <https://www.pnas.org/>
+  - PNAS《美国科学院院报》（Proceedings of the National Academy of Sciences of the United States of America）是被引用次数最多的 综合学科文献之一，它是美国国家科学院的院刊，自1914年创刊 至今，PNAS提供具有高水平的前沿研究报告、学术评论、学科回顾及前瞻、学术论文以及美国国家科学学会学术动态的报道和 出版。PNAS收录的文献涵盖医学、化学、生物、物理、大气科学、生态学和社会科学、数据科学等。
 
 ## MIT Technology review 麻省理工技术评论
+<a id="markdown-mit-technology-review-%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E6%8A%80%E6%9C%AF%E8%AF%84%E8%AE%BA" name="mit-technology-review-%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E6%8A%80%E6%9C%AF%E8%AF%84%E8%AE%BA"></a>
 
-* <https://www.technologyreview.com/>
+
+- <https://www.technologyreview.com/>
 
 ## 各领域期刊会议
+<a id="markdown-%E5%90%84%E9%A2%86%E5%9F%9F%E6%9C%9F%E5%88%8A%E4%BC%9A%E8%AE%AE" name="%E5%90%84%E9%A2%86%E5%9F%9F%E6%9C%9F%E5%88%8A%E4%BC%9A%E8%AE%AE"></a>
 
-* IEEE <https://www.ieee.org/>
 
-* Acoustics/声学 <https://yaoqs.github.io/Acoustics/>
-* 其他待补充...
+- IEEE <https://www.ieee.org/>
+
+- Acoustics/声学 <https://yaoqs.github.io/Acoustics/>
+- 其他待补充...
 
 # GET: Search for papers/科研文献检索
+<a id="markdown-get%3A-search-for-papers%2F%E7%A7%91%E7%A0%94%E6%96%87%E7%8C%AE%E6%A3%80%E7%B4%A2" name="get%3A-search-for-papers%2F%E7%A7%91%E7%A0%94%E6%96%87%E7%8C%AE%E6%A3%80%E7%B4%A2"></a>
+
 
 文献获取与免费下载技巧
 
-* 利用校园网下载
-* 到专业文献检索库检索下载
-* 利用万能文献网站
-* 学术搜索引擎
-* 论坛文献求助
-* 国家图书馆文献传递
-* 发电子邮件向论文作者获取电子版
-* 淘宝网代下载论文电子书，代下视频，代复印国家图书馆的藏书
-* 购买实体书，淘宝海外代购
+- 利用校园网下载
+- 到专业文献检索库检索下载
+- 利用万能文献网站
+- 学术搜索引擎
+- 论坛文献求助
+- 国家图书馆文献传递
+- 发电子邮件向论文作者获取电子版
+- 淘宝网代下载论文电子书，代下视频，代复印国家图书馆的藏书
+- 购买实体书，淘宝海外代购
 
 ## 专业引文索引介绍
+<a id="markdown-%E4%B8%93%E4%B8%9A%E5%BC%95%E6%96%87%E7%B4%A2%E5%BC%95%E4%BB%8B%E7%BB%8D" name="%E4%B8%93%E4%B8%9A%E5%BC%95%E6%96%87%E7%B4%A2%E5%BC%95%E4%BB%8B%E7%BB%8D"></a>
+
 
 SCI(科学引文索引)、EI(工程索引)、ISTP(科技会议录索引) 是世界著名的三大科技文献检索系统，是国际公认的进行科学统计与科学评价的主要检索工具，其中以SCI最为重要
 
-* SCI
-  * SCI(Science Citation Index)是由美国科学信息研究所(ISI)1961年创办出版的引文数据库。SCI是一部国际性索引，包括有：自然科学、生物 、医学、农业、技术和行为科学等，主要侧重基础科学。所选用的刊物来源于94个类、40多个国家、50多种文字，这些国家主要有美国、英国、 荷兰、德国、俄罗斯、法国、日本、加拿大等，也收录一定数量的中国刊物。
-* ISTP（科技会议录索引）
-  * 《科技会议录索引》（Index to Scientific & Technical Proceedings，简称ISTP）创刊于 1978年，由美国科学情报研究所编辑出版 。该索引收录生命科学、物理与化学科学 、农业、生物和环境科学、工程技术和应 用科学等学科的会议文献，包括一般性会 议、座谈会、研究会、讨论会、发表会等 。其中工程技术与应用科学类文献约占35% ，其他涉及学科基本与SCI相同。
-* EI《工程索引》
-  * Engineering Village（美国工程索引）<https://www.engineeringvillage.com/>它是最权威的工程、应用科学领域文献检索平台。1884年由美国工程信息公司创办。 Ei 数据库收录了1969年以来全世界工程领域内5,100种期刊、1500余种会议录 以及科技报告等的900万条数据,是工程技术领域世界最权威的检索工具。
-  * [EI收录的中国（中文）期刊（2022版）](https://blog.csdn.net/yaokingson/article/details/124378020)
-  * 查询<https://www.elsevier.com/solutions/engineering-village/content>
-  * [CHIMICA-SOURCE-LIST-102021.xlsx](https://www.elsevier.com/__data/assets/excel_doc/0020/57116/CHIMICA-SOURCE-LIST-102021.xlsx)
-  * [CPXSourceList012022.xlsx](https://www.elsevier.com/__data/assets/excel_doc/0007/56392/CPXSourceList012022.xlsx)
-* SSCI
-  * Social Science Citation Index (SSCI,1983-)社会科学引文索引网络版(Web of Science)中文可以理解为社会科学引文索引，与“SCI” 一样同为美国科学信息研究所创建，现收录了世界上、不同国家和地区的社会科学期刊和论文，进行一定的统计分析，并划分为不同的因子区间，是当今社会科 学领域重要的期刊检索与论文参考渠道。1999 年 SSCI 全文收录1809种 世界最重要的社会科学期刊，内容覆盖包括人类学、法律、经济、历史、地理、心理学等 55 个领域。收录文献类型包括：研究论文，书评，专题讨论，社论，人物自传，书信等。选择收录 (Selectively Covered) 期刊为 1300 多种。是ISI核心的三大引文索引(SCI、EI、ISTP )数据库之一，收录社会科学领域内1,700多种最具影响 力的学术刊物。数据年限从1983年至今。
+- SCI
+  - SCI(Science Citation Index)是由美国科学信息研究所(ISI)1961年创办出版的引文数据库。SCI是一部国际性索引，包括有：自然科学、生物 、医学、农业、技术和行为科学等，主要侧重基础科学。所选用的刊物来源于94个类、40多个国家、50多种文字，这些国家主要有美国、英国、 荷兰、德国、俄罗斯、法国、日本、加拿大等，也收录一定数量的中国刊物。
+- ISTP（科技会议录索引）
+  - 《科技会议录索引》（Index to Scientific & Technical Proceedings，简称ISTP）创刊于 1978年，由美国科学情报研究所编辑出版 。该索引收录生命科学、物理与化学科学 、农业、生物和环境科学、工程技术和应 用科学等学科的会议文献，包括一般性会 议、座谈会、研究会、讨论会、发表会等 。其中工程技术与应用科学类文献约占35% ，其他涉及学科基本与SCI相同。
+- EI《工程索引》
+  - Engineering Village（美国工程索引）<https://www.engineeringvillage.com/>它是最权威的工程、应用科学领域文献检索平台。1884年由美国工程信息公司创办。 Ei 数据库收录了1969年以来全世界工程领域内5,100种期刊、1500余种会议录 以及科技报告等的900万条数据,是工程技术领域世界最权威的检索工具。
+  - [EI收录的中国（中文）期刊（2022版）](https://blog.csdn.net/yaokingson/article/details/124378020)
+  - 查询<https://www.elsevier.com/solutions/engineering-village/content>
+  - [CHIMICA-SOURCE-LIST-102021.xlsx](https://www.elsevier.com/__data/assets/excel_doc/0020/57116/CHIMICA-SOURCE-LIST-102021.xlsx)
+  - [CPXSourceList012022.xlsx](https://www.elsevier.com/__data/assets/excel_doc/0007/56392/CPXSourceList012022.xlsx)
+- SSCI
+  - Social Science Citation Index (SSCI,1983-)社会科学引文索引网络版(Web of Science)中文可以理解为社会科学引文索引，与“SCI” 一样同为美国科学信息研究所创建，现收录了世界上、不同国家和地区的社会科学期刊和论文，进行一定的统计分析，并划分为不同的因子区间，是当今社会科 学领域重要的期刊检索与论文参考渠道。1999 年 SSCI 全文收录1809种 世界最重要的社会科学期刊，内容覆盖包括人类学、法律、经济、历史、地理、心理学等 55 个领域。收录文献类型包括：研究论文，书评，专题讨论，社论，人物自传，书信等。选择收录 (Selectively Covered) 期刊为 1300 多种。是ISI核心的三大引文索引(SCI、EI、ISTP )数据库之一，收录社会科学领域内1,700多种最具影响 力的学术刊物。数据年限从1983年至今。
 
 ## 出版机构
+<a id="markdown-%E5%87%BA%E7%89%88%E6%9C%BA%E6%9E%84" name="%E5%87%BA%E7%89%88%E6%9C%BA%E6%9E%84"></a>
 
-### Springer LINK
 
-* <https://link.springer.com/>
-德国斯普林格(Springer-Verlag)通过SpringerLink系统提供其学术期刊及电子图书的在线服务，该数据库包括了各类期刊、丛书、图书、参考工具书以及回溯文档。
-Springer Link系统就是通过www发行的电子全文期刊检索系统，该系统目前包括2900多种期刊的电子全文，其中200多种为开放获取期刊。根据期刊涉及的学科范围，LINK将这些电子全文期刊划分成11个出色的《在线图书馆》，分别是：化学、计算机科学、经济学、工程学、环境科学、地理学、法学、生命科学、数学、医学、物理学和天文学
+- [Springer LINK](https://link.springer.com/) 德国斯普林格(Springer-Verlag)通过SpringerLink系统提供其学术期刊及电子图书的在线服务，该数据库包括了各类期刊、丛书、图书、参考工具书以及回溯文档。Springer Link系统就是通过www发行的电子全文期刊检索系统，该系统目前包括2900多种期刊的电子全文，其中200多种为开放获取期刊。根据期刊涉及的学科范围，LINK将这些电子全文期刊划分成11个出色的《在线图书馆》，分别是：化学、计算机科学、经济学、工程学、环境科学、地理学、法学、生命科学、数学、医学、物理学和天文学
+- [Elsevier电子全文期刊](http://www.sciencedirect.com) 荷兰爱思唯尔（Elsevier Science） 覆盖学科：农业与生命科学、生物化学、遗传学 与分子生物学、化学、化学工程、土木工程、计 算机科学、工程与技术、环境科学、免疫学与微 生物学、材料科学、数学、医学、神经系统科学、 药理学、毒物学与制药学、物理学与天文学、地 球与行星科学、艺术与人文、商业、管理学等。
+- [wiley online library](https://onlinelibrary.wiley.com) John Wiley & Sons Inc. 约翰威立国际出版公司1807年创建 于美国，是全球知名的出版机构，面向专业人士、科研人 员、教育工作者、学生、终身学习者提供必需的知识和服 务。其出版物学科范围包括化学、物理、工程、农业、兽 医学、食品科学、医学、护理、口腔、生命科学、心理、 商业、经济、社会科学、艺术、人类学等多个学科大概 1500多种期刊，以及很多其它重要的跨学科领域出版的期 刊。 目前共有1156种期刊（占所出版期刊总数的76%） 收录在Thomson ISI® 2011年期刊引用报告（JCR）中。
+- [Taylor & Francis](http://www.tandfonline.com) 泰勒弗朗西斯集团(Taylor & Francis Group) 拥有长达两个世纪 的丰富出版经验，过去二十年来，在此雄厚基础上迅速发展，已 成为世界上最大的学术出版集团之一。2004年，泰勒弗朗西斯出 版集团与英富曼资讯集团(InformaPlc)合并，通过出版与商业活 动提供专业信息，在国际上展现了新的实力。
+- [Cambridge Journals Online](http://journals.cambridge.org) 剑桥大学出版社成立于1534年，为英国剑桥大学之分支机构，是世界上历史 最悠久、规模最大的大学出版社之一，全球聘用1000多名员工并向200多个国 家提供图书和期刊，作者队伍及业务范围遍及全世界。剑桥大学出版社属非 盈利性机构，以推动知识、教育、学习和研究等慈善事业为目的。剑桥大学 出版社每年出版约2500本新书及超过200种学术期刊。
+- Cambridge 电子书<http://ebooks.cambridge.org/>
+- [Walter de Gruyter](http://www.degruyter.com) 沃尔特·德·格鲁伊特（Walter de Gruyter）出版社是德国历史最为悠久的学术出版社之一。自从1746年弗里德里希大帝赐予柏林皇家现代学校执照用来开办书店、印刷和出售“有价值和鼓舞人心”的书籍的时候，出版社一直蓬勃发展，直到具备今天的规模。Walter de Gruyter出版的学术著作，范围非常广泛，涉及杂志期刊、多卷数参考文献、网络在线数据库、高 层次学术专著、手册、法学评论和学生教科书等等。出版内容涵盖人文，医学，数学，自然科学，和法律等领域。大约40%的书目是英文书目，集 团每年出版500多种图书、100多种杂志期刊和日渐增多的电子产品。 Walter de Gruyter系列数学经典著作与GTM数学经典著作类似，出版数学 专业书籍，包括入门级丛书至最高难度的学术专著。出版物以英语为主。 数学项目中包括已经非常成熟的丛书系列如“Studies in Mathematics ”和 “Expositions in Mathematics”。
+- [arxiv.org](https://arxiv.org) 电子**预印**版论文。康奈尔大学。用于发表和查阅**前沿、最新idea**手稿，非正式论文，避免直接投期刊或者会议经过漫长的等待后出现不可预知的情况，同时查阅相关领域最新idea，甚至可以直接引用它。领域涵盖物理学、数学、非线性科学、计算机科学、定量生命科学、计量金融学和统计学。发表arXiv的论文不需要通过审核，因此被用作发表手稿或者预出版的论文。由于论文的审核工作一般需要几个月的时间，最新的研究结果发表到学术期刊上时已经失去了一定的时效性。由于论文没有通过审核，许多idea未经同行评审，同时其中不可避免地存在大量的民科，读者应当更加谨慎地对待。访问和下载arXiv上的文献是完全免费的，不需要登录或者其他形式的认证。
 
-### Elsevier电子全文期刊
+## 订阅
+<a id="markdown-%E8%AE%A2%E9%98%85" name="%E8%AE%A2%E9%98%85"></a>
 
-* <http://www.sciencedirect.com/>
-荷兰爱思唯尔（Elsevier Science） 覆盖学科：农业与生命科学、生物化学、遗传学 与分子生物学、化学、化学工程、土木工程、计 算机科学、工程与技术、环境科学、免疫学与微 生物学、材料科学、数学、医学、神经系统科学、 药理学、毒物学与制药学、物理学与天文学、地 球与行星科学、艺术与人文、商业、管理学等。
-
-### wiley online library
-
-* <https://onlinelibrary.wiley.com/>
-John Wiley & Sons Inc. 约翰威立国际出版公司1807年创建 于美国，是全球知名的出版机构，面向专业人士、科研人 员、教育工作者、学生、终身学习者提供必需的知识和服 务。其出版物学科范围包括化学、物理、工程、农业、兽 医学、食品科学、医学、护理、口腔、生命科学、心理、 商业、经济、社会科学、艺术、人类学等多个学科大概 1500多种期刊，以及很多其它重要的跨学科领域出版的期 刊。 目前共有1156种期刊（占所出版期刊总数的76%） 收录在Thomson ISI® 2011年期刊引用报告（JCR）中。
-
-### Taylor & Francis
-
-* <http://www.tandfonline.com/>
-泰勒弗朗西斯集团(Taylor & Francis Group) 拥有长达两个世纪 的丰富出版经验，过去二十年来，在此雄厚基础上迅速发展，已 成为世界上最大的学术出版集团之一。2004年，泰勒弗朗西斯出 版集团与英富曼资讯集团(InformaPlc)合并，通过出版与商业活 动提供专业信息，在国际上展现了新的实力。
-
-### Cambridge Journals Online
-
-* <http://journals.cambridge.org/>
-剑桥大学出版社成立于1534年，为英国剑桥大学之分支机构，是世界上历史 最悠久、规模最大的大学出版社之一，全球聘用1000多名员工并向200多个国 家提供图书和期刊，作者队伍及业务范围遍及全世界。剑桥大学出版社属非 盈利性机构，以推动知识、教育、学习和研究等慈善事业为目的。剑桥大学 出版社每年出版约2500本新书及超过200种学术期刊。
-Cambridge 电子书<http://ebooks.cambridge.org/>
-
-### Walter de Gruyter
-
-* <http://www.degruyter.com/>
-沃尔特·德·格鲁伊特（Walter de Gruyter）出版社是德国历史最为悠久的学术出版社之一。自从1746年弗里德里希大帝赐予柏林皇家现代学校执照用来开办书店、印刷和出售“有价值和鼓舞人心”的书籍的时候，出版社一直蓬勃发展，直到具备今天的规模。Walter de Gruyter出版的学术著作，范围非常广泛，涉及杂志期刊、多卷数参考文献、网络在线数据库、高 层次学术专著、手册、法学评论和学生教科书等等。出版内容涵盖人文，医学，数学，自然科学，和法律等领域。大约40%的书目是英文书目，集 团每年出版500多种图书、100多种杂志期刊和日渐增多的电子产品。 Walter de Gruyter系列数学经典著作与GTM数学经典著作类似，出版数学 专业书籍，包括入门级丛书至最高难度的学术专著。出版物以英语为主。 数学项目中包括已经非常成熟的丛书系列如“Studies in Mathematics ”和 “Expositions in Mathematics”。
-
-### arxiv.org
-
-* <https://arxiv.org/>
-电子**预印**版论文。康奈尔大学。
-用于发表和查阅**前沿、最新idea**手稿，非正式论文，避免直接投期刊或者会议经过漫长的等待后出现不可预知的情况，同时查阅相关领域最新idea，甚至可以直接引用它。领域涵盖物理学、数学、非线性科学、计算机科学、定量生命科学、计量金融学和统计学。发表arXiv的论文不需要通过审核，因此被用作发表手稿或者预出版的论文。由于论文的审核工作一般需要几个月的时间，最新的研究结果发表到学术期刊上时已经失去了一定的时效性。由于论文没有通过审核，许多idea未经同行评审，同时其中不可避免地存在大量的民科，读者应当更加谨慎地对待。访问和下载arXiv上的文献是完全免费的，不需要登录或者其他形式的认证。
+- [readpaper](https://readpaper.com/)
 
 ## 检索
-
-### SCI/SSCI检索界面
-
-<http://isiknowledge.com/>
-查询SCI期刊以及分区 <http://www.letpub.com.cn/index.php?page=journalapp> 以及被Web of Science数据库的的引用情况
-
-### Web of Science
-
-* <http://www.webofscience.com/>
-
-* 访问入口2：CSCD中国科学引文数据库 <http://www.webofknowledge.com/?DestApp=CSCD>
-* 访问入口3：DII德温特世界专利数据库 <http://www.webofknowledge.com/?DestApp=DIIDW>
-汤森路透公司强大的引文数据库，同样需要机构注册。传说中的SCI查询网站，在这个网站的Journal Citation Reports里可以直接查询出来，这个网站也可以查询国外的专利，选择Derwent数据库就可以了
-* [Science Citation Index (SCI,1900-)--科学引文索引网络版(Web of Science)](http://apps.webofknowledge.com/WOS_GeneralSearch_input.do?product=WOS&search_mode=GeneralSearch&SID=4DPnQUnvEzALpdSiOip&preferencesSaved= )
-
-### IEEE xplore
-
-* <https://ieeexplore.ieee.org/>
-
-### sci-hub
-
-* <https://sci-hub.se> 下载论文
-<img src="http://image.sciencenet.cn/album/201608/10/115853nis0lle9my9aw99d.jpg"/>
-
-### 知网
-
-* <http://www.cnki.net/>
-
-### 维普
-
-* <http://www.cqvip.com/>
-
-### 万方
-
-* <http://www.wanfangdata.com.cn/>
-
-### Scopus
-
-* <https://www.scopus.com>
-全世界最大的摘要和引文数据库，涵盖了15000种科学、技术及医学方面的期刊。涵盖了世界上最广泛的科技和医学文献的文摘、参考文献及索引
-[more...](http://lib.ustc.edu.cn/%e7%94%b5%e5%ad%90%e8%b5%84%e6%ba%90/database/1-%e6%96%87%e6%91%98%e7%b4%a2%e5%bc%95%e6%95%b0%e6%8d%ae%e5%ba%93/scopus/)
-
-### sciencedirect
-
-* <https://www.sciencedirect.com>
-Science Direct数据库由Elsevier Science公司出版
-The leading platform of peer-reviewed literature that helps you move your research forward.
-
-### Emerald 管理学全集数据库
-
-* Emerald于1967年由来自世界著名百所商学院之一 Bradford University Management Center的学者建立。
-
-* 在全球范围内，98%的世界百强100名商学院、58% 以上的全球500强企业都在使用Emerald的期刊和数 据库。
-* Emerald管理学期刊涵盖管理学的各个二级学科，包 含会计金融和法律、经济和社会政策、健康护理管 理、行业管理、企业创新管理、国际商务管理、管 理科学与研究、质量管理、市场营销、运营与物流 管理、组织发展与变化管理、财产与不动产管理、 培训与发展管理、教育管理、图书馆管理与研究和 信息与知识管理等等内容。
-
-### Semantic scholar
-
-* <https://www.semanticscholar.org>
-微软联合创始人Paul Allen投资开发的新一代学术搜索引擎，几乎80%的文章都可以在上面下载
-Semantic Scholar is a free, nonprofit, academic search engine from AI2. We've pulled over 170 million scientific papers from sources like PubMed, Nature, and ArXiv. Our AI analyzes research papers and pulls out authors, references, figures, and topics.
-
-### AMINER
-
-* <https://www.aminer.cn>
-可以通过社交网络和数据挖掘统计出你想搜索的话题下面的专家和文章，对于进行以主题为目标的搜索非常有用
-
-### Worldscinet世界科学出版社电子期刊
-
-* WorldSciNet为新加坡World Scientific Publishing Co. 电子期刊发行网站，目前提供107种全文电子期刊， 涵盖数学、物理、化学、生物、医学、材料、环境、 计算机、工程、经济、社会科学等领域。
-
-* <http://worldscinet.lib.tsinghua.edu.cn/>
-World Scientific电子书 <http://www.worldscientific.com/action/showPublications?pubType=book>
-
-### PubMed
-
-* <https://www.ncbi.nlm.nih.gov/pubmed>
-PubMed comprises more than 29 million citations for biomedical literature from MEDLINE, life science journals, and online books. Citations may include links to full-text content from PubMed Central and publisher web sites.
-
-* 镜像
-  * <http://pubmed.pro/>
-  * <http://pubmed.cn/> PubMed.cn是医学,生命科学领域的数据库，旨在组织、分享科研领域信息。为用户提供文献检索,图片检索,影响因子查询,免费全文下载,国家自然科学基金统计分析等服务.
-
-### EBSCO
-
-* <http://search.ebscohost.com/>
-
-* <https://www.ebsco.com/>
-* 访问入口2：[EBSCO电子图书（原NetLibrary）](http://search.ebscohost.com/Community.aspx?authtype=ip&encid=22D731863C2635773786351632353E523403342320E332133203335338&ugt=723731563C9635773796351632153E1224E364D36013629362E323E338133503&IsAdminMobile=N)
-**需要机构注册**
-EBSCO公司的全文数据库Academic Source Premier（简称ASP）和Business Source Premier（简称BSP），是CALIS最早引进的数据库（最初为Academic Search Elite和Business Source Elite）之一。EBSCO公司2009年又推出综合类集成全文数据库Academic Source Complete（简称ASC）和 Business Source Complete（简称BSC），ASC和BSC是目前CALIS-ASP/BSP集团的升级版本，除完全覆盖原ASP和BSP的所有收录内容外，还在全文文献收录种类和内容上做了大幅度升级与扩展。EBSCO电子图书涉及学科广泛，包括商业与经济、计算机科学、教育、工程与技术、历史、法律、数学、哲学、心理学、政治学、社会学、艺术与建筑等。
-
-### JSTOR数据库
-
-* <http://www.jstor.org/>
-
-* 以政治学、经济学、哲学、历史等人文社 会学科主题为中心，兼有一般科学性主题 共十几个领域的学术期刊的过刊全文库， 提供从创刊号到最近三至五年前过刊的PDF 全文。有些过刊的回溯年代早至1665年。
-
-### Citeseerx
-
-* <http://citeseerx.ist.psu.edu/>
-
-* CiteSeerX是**免费**论文搜索网，是CiteSeer的换代产品，而CiteSeer引文搜索引擎是利用自动引文标引系统(ACI)建立的第一个学术论文数字图书馆。
-
-### FindaRticles
-
-* <http://findarticles.com/>
-Information Find Articles 作为文献论文搜索引擎提供了多种顶极刊物的上千万篇论文涵盖多方面的内容包括艺术、商业、计算机与技术等.该网站大部分为免费,全文资料检索操作简单,查找十分方便,FindaRticles资料来源较为广泛,主要是来自于杂志、定期刊物和报纸等。
-
-### HighWire
-
-* <http://highwire.stanford.edu/>
-「HighWire」斯坦福学术文献电子期刊,由美国斯坦福大学图书馆创立,全球最大的学术文献出版商之一.世界上最大的免费科学期刊库,收录的期刊覆盖以下学科：生命科学、医学、物理学、社会科学.输入需要查找内容的关键词即可,提供**免费全文阅读**
-
-### CRC Press电子书
-
-* CRC公司成立之初为化学橡胶公司，1973年开始集中转向出版业。 CRC Press现在属于Taylor & Francis 集团公司。80年代，CRC 将出版物扩展到自然科学、医学和工程等方面的专业教材和参考工具书。在CRC的发展过程中，通过与 一些著名的专业出版社的合并和合 作，出版社扩大自己的出版范围， 并能够做到精专。经过90多年的发展，CRC Press已经成为生命科学 、医学、制药学、食品科学、环境 科学、工程、技术、法医学、商业 、数学和统计学等领域的出版先锋。
-
-### cnpLINKer
-
-* <http://cnplinker.cnpeak.com/>
-cnpLINKer是由中国图书进出口总公司开发的在线数据库检索系统，是一个查阅国外各类期刊文献的综合性网络平台
-
-### 读秀
-
-* <http://www.duxiu.com>
-**需要机构注册**
-"读秀"是由海量全文数据及资料基本信息组成的超大型数据库，为用户提供深入到图书章节和内容的全文检索，部分文献的原文试读，以及高效查找、获取各种类型学术文献资料的一站式检索，周到的参考咨询服务，是一个真正意义上的学术搜索引擎及文献资料服务平台。
-
-### Avax
-
-* <http://avaxhm.com/ebooks>
-Avax 是俄罗斯的一个资源发布博客，内容很丰富，包括软件、电子书、影视音乐资源等，更新非常快。每天都有新的书籍、杂志资源发布，通过MegaUpload、Rapidshare、Deposite、Uploading、filesonic、fileserves等网盘下载。类似的还有，<http://ebookee.org/> 该站书籍种类丰富，基本专业书籍都可找到。这一系列网站唯一不好的地方就是网络硬盘存储，下载麻烦，有广告。部分网络硬盘在国内可能被墙，需要挂代理。不过淘宝上有带下这些国外网盘的服务。
-
-### The ACM Digital Library
-
-<https://dl.acm.org/>
-The ACM Digital Library is a research, discovery and networking platform containing:
-
-* The Full-Text Collection of all ACM publications, including journals, conference proceedings, technical magazines, newsletters and books.
-* A collection of curated and hosted full-text publications from select publishers.
-* The ACM Guide to Computing Literature, a comprehensive bibliographic database focused exclusively on the field of computing.
-* A richly interlinked set of connections among authors, works, institutions, and specialized communities.
-
-### idata
-
-* <https://www.cn-ki.net/>
-iData是由北京大学、清华大学、浙江大学、复旦大学等师生学者共同筹建的用于教学、科研目的的**公益**互联网项目，旨在促进知识的传播和最新学术科技的共享。iData平台上所有信息均为公开发表的学术文献，由学者自由上传，并提供有限的**免费浏览、下载**服务。
-
-### Open Access Library (OALib)
-
-<http://www.oalib.com/>
-Open Access Library (OALib)包含：
-
-* 基于一个开放存取的元数据库的搜索引擎，
-* OALib期刊，
-* OA期刊论文检索，
-* OALib Preprints以及外来预印本和后印本的存储。
-OALib提供的开源论文超过4,330,499篇，涵盖所有学科。所有文章均可**免费下载**。OALib Journal是一个同行评审的学术期刊，覆盖科学，科技，医学以及人文社科的所有领域。所有发表在 OALib Journal 上的文章都存放在OALib上。OALib 与OALib Journal均由Open Access Library公司管理
-
-### MathSciNet（美国数学学会《数学评论》）
-
-* <http://www.ams.org/mathscinet/>
-美国数学协会AMS • 美国数学学会（American Mathematical Society，AMS）美国数学学 会是美国进行数学研究和教育的组织，有不少出版品。汤马斯·费斯 克前往英国时，受到伦敦数学学会的启发而于1888年成立AMS。 AMS以TeX为基础发展了AMS-LaTeX。 AMS出版《数学评论》，这 是数学出版品的评论数据库。AMS也是著名的专业数学书籍出版商 。
-
-### 数学谱系计划
-
-* <http://www.genealogy.ams.org/>
-• 数学谱系计划是一个收集学位论文主题及指导教授谱系的网络数据库。该计划由明尼苏达州立大学教授 Harry B. Coonce 发起，始于1997年秋天。在2002年秋天，由于校 方停止支持，该计划移至北达科塔州立大学。自2003年起 ，该计划也得到美国数学学会与 Clay 数学中心的支持。
+<a id="markdown-%E6%A3%80%E7%B4%A2" name="%E6%A3%80%E7%B4%A2"></a>
+
+- [SCI/SSCI检索界面](http://isiknowledge.com) 查询SCI期刊以及分区 <http://www.letpub.com.cn/index.php?page=journalapp> 以及被Web of Science数据库的的引用情况
+- [Web of Science](http://www.webofscience.com)
+  - 访问入口2：CSCD中国科学引文数据库 <http://www.webofknowledge.com/?DestApp=CSCD>
+  - 访问入口3：DII德温特世界专利数据库 <http://www.webofknowledge.com/?DestApp=DIIDW>
+  汤森路透公司强大的引文数据库，同样需要机构注册。传说中的SCI查询网站，在这个网站的Journal Citation Reports里可以直接查询出来，这个网站也可以查询国外的专利，选择Derwent数据库就可以了
+  - [Science Citation Index (SCI,1900-)--科学引文索引网络版(Web of Science)](http://apps.webofknowledge.com/WOS_GeneralSearch_input.do?product=WOS&search_mode=GeneralSearch&SID=4DPnQUnvEzALpdSiOip&preferencesSaved= )
+- [IEEE xplore](https://ieeexplore.ieee.org)
+- [sci-hub](https://sci-hub.se)
+  <img src="http://image.sciencenet.cn/album/201608/10/115853nis0lle9my9aw99d.jpg"/>
+- [知网](http://www.cnki.net)
+- [维普](http://www.cqvip.com)
+- [万方](http://www.wanfangdata.com.cn)
+- [Scopus](https://www.scopus.com) 全世界最大的摘要和引文数据库，涵盖了15000种科学、技术及医学方面的期刊。涵盖了世界上最广泛的科技和医学文献的文摘、参考文献及索引 [more...](http://lib.ustc.edu.cn/%e7%94%b5%e5%ad%90%e8%b5%84%e6%ba%90/database/1-%e6%96%87%e6%91%98%e7%b4%a2%e5%bc%95%e6%95%b0%e6%8d%ae%e5%ba%93/scopus/)
+- [sciencedirect](https://www.sciencedirect.com) Science Direct数据库由Elsevier Science公司出版The leading platform of peer-reviewed literature that helps you move your research forward.
+- Emerald 管理学全集数据库
+  - Emerald于1967年由来自世界著名百所商学院之一 Bradford University Management Center的学者建立。
+  - 在全球范围内，98%的世界百强100名商学院、58% 以上的全球500强企业都在使用Emerald的期刊和数 据库。
+  - Emerald管理学期刊涵盖管理学的各个二级学科，包 含会计金融和法律、经济和社会政策、健康护理管 理、行业管理、企业创新管理、国际商务管理、管 理科学与研究、质量管理、市场营销、运营与物流 管理、组织发展与变化管理、财产与不动产管理、 培训与发展管理、教育管理、图书馆管理与研究和 信息与知识管理等等内容。
+- [Semantic scholar](https://www.semanticscholar.org) 微软联合创始人Paul Allen投资开发的新一代学术搜索引擎，几乎80%的文章都可以在上面下载.Semantic Scholar is a free, nonprofit, academic search engine from AI2. We've pulled over 170 million scientific papers from sources like PubMed, Nature, and ArXiv. Our AI analyzes research papers and pulls out authors, references, figures, and topics.
+- [AMINER](https://www.aminer.cn)可以通过社交网络和数据挖掘统计出你想搜索的话题下面的专家和文章，对于进行以主题为目标的搜索非常有用
+- Worldscinet世界科学出版社电子期刊
+  - WorldSciNet为新加坡World Scientific Publishing Co. 电子期刊发行网站，目前提供107种全文电子期刊， 涵盖数学、物理、化学、生物、医学、材料、环境、 计算机、工程、经济、社会科学等领域。
+  - <http://worldscinet.lib.tsinghua.edu.cn/> World Scientific电子书 <http://www.worldscientific.com/action/showPublications?pubType=book>
+- [PubMed](https://www.ncbi.nlm.nih.gov/pubmed) comprises more than 29 million citations for biomedical literature from MEDLINE, life science journals, and online books. Citations may include links to full-text content from PubMed Central and publisher web sites.
+  - 镜像
+    - <http://pubmed.pro/>
+    - <http://pubmed.cn/> PubMed.cn是医学,生命科学领域的数据库，旨在组织、分享科研领域信息。为用户提供文献检索,图片检索,影响因子查询,免费全文下载,国家自然科学基金统计分析等服务.
+- EBSCO
+  - <http://search.ebscohost.com/>
+  - <https://www.ebsco.com/>
+  - 访问入口2：[EBSCO电子图书（原NetLibrary）](http://search.ebscohost.com/Community.aspx?authtype=ip&encid=22D731863C2635773786351632353E523403342320E332133203335338&ugt=723731563C9635773796351632153E1224E364D36013629362E323E338133503&IsAdminMobile=N)
+  - **需要机构注册**
+  - EBSCO公司的全文数据库Academic Source Premier（简称ASP）和Business Source Premier（简称BSP），是CALIS最早引进的数据库（最初为Academic Search Elite和Business Source Elite）之一。EBSCO公司2009年又推出综合类集成全文数据库Academic Source Complete（简称ASC）和 Business Source Complete（简称BSC），ASC和BSC是目前CALIS-ASP/BSP集团的升级版本，除完全覆盖原ASP和BSP的所有收录内容外，还在全文文献收录种类和内容上做了大幅度升级与扩展。EBSCO电子图书涉及学科广泛，包括商业与经济、计算机科学、教育、工程与技术、历史、法律、数学、哲学、心理学、政治学、社会学、艺术与建筑等。
+- [JSTOR数据库](http://www.jstor.org) 以政治学、经济学、哲学、历史等人文社 会学科主题为中心，兼有一般科学性主题 共十几个领域的学术期刊的过刊全文库， 提供从创刊号到最近三至五年前过刊的PDF 全文。有些过刊的回溯年代早至1665年。
+- [Citeseerx](http://citeseerx.ist.psu.edu)是**免费**论文搜索网，是CiteSeer的换代产品，而CiteSeer引文搜索引擎是利用自动引文标引系统(ACI)建立的第一个学术论文数字图书馆。
+- [FindaRticles](http://findarticles.com)Information Find Articles 作为文献论文搜索引擎提供了多种顶极刊物的上千万篇论文涵盖多方面的内容包括艺术、商业、计算机与技术等.该网站大部分为免费,全文资料检索操作简单,查找十分方便,FindaRticles资料来源较为广泛,主要是来自于杂志、定期刊物和报纸等。
+- [HighWire](http://highwire.stanford.edu)斯坦福学术文献电子期刊,由美国斯坦福大学图书馆创立,全球最大的学术文献出版商之一.世界上最大的免费科学期刊库,收录的期刊覆盖以下学科：生命科学、医学、物理学、社会科学.输入需要查找内容的关键词即可,提供**免费全文阅读**
+- CRC Press电子书：CRC公司成立之初为化学橡胶公司，1973年开始集中转向出版业。 CRC Press现在属于Taylor & Francis 集团公司。80年代，CRC 将出版物扩展到自然科学、医学和工程等方面的专业教材和参考工具书。在CRC的发展过程中，通过与 一些著名的专业出版社的合并和合 作，出版社扩大自己的出版范围， 并能够做到精专。经过90多年的发展，CRC Press已经成为生命科学 、医学、制药学、食品科学、环境 科学、工程、技术、法医学、商业 、数学和统计学等领域的出版先锋。
+- [cnpLINKer](http://cnplinker.cnpeak.com)是由中国图书进出口总公司开发的在线数据库检索系统，是一个查阅国外各类期刊文献的综合性网络平台
+- [读秀](http://www.duxiu.com)**需要机构注册**"读秀"是由海量全文数据及资料基本信息组成的超大型数据库，为用户提供深入到图书章节和内容的全文检索，部分文献的原文试读，以及高效查找、获取各种类型学术文献资料的一站式检索，周到的参考咨询服务，是一个真正意义上的学术搜索引擎及文献资料服务平台。
+- [Avax](http://avaxhm.com/ebooks) 是俄罗斯的一个资源发布博客，内容很丰富，包括软件、电子书、影视音乐资源等，更新非常快。每天都有新的书籍、杂志资源发布，通过MegaUpload、Rapidshare、Deposite、Uploading、filesonic、fileserves等网盘下载。类似的还有，<http://ebookee.org/> 该站书籍种类丰富，基本专业书籍都可找到。这一系列网站唯一不好的地方就是网络硬盘存储，下载麻烦，有广告。部分网络硬盘在国内可能被墙，需要挂代理。不过淘宝上有带下这些国外网盘的服务。
+- [The ACM Digital Library](https://dl.acm.org)The ACM Digital Library is a research, discovery and networking platform containing:
+  - The Full-Text Collection of all ACM publications, including journals, conference proceedings, technical magazines, newsletters and books.
+  - A collection of curated and hosted full-text publications from select publishers.
+  - The ACM Guide to Computing Literature, a comprehensive bibliographic database focused exclusively on the field of computing.
+  - A richly interlinked set of connections among authors, works, institutions, and specialized communities.
+- [idata](https://www.cn-ki.net)是由北京大学、清华大学、浙江大学、复旦大学等师生学者共同筹建的用于教学、科研目的的**公益**互联网项目，旨在促进知识的传播和最新学术科技的共享。iData平台上所有信息均为公开发表的学术文献，由学者自由上传，并提供有限的**免费浏览、下载**服务。
+- [Open Access Library (OALib)](http://www.oalib.com)包含：
+  - 基于一个开放存取的元数据库的搜索引擎，
+  - OALib期刊，
+  - OA期刊论文检索，
+  - OALib Preprints以及外来预印本和后印本的存储。
+  OALib提供的开源论文超过4,330,499篇，涵盖所有学科。所有文章均可**免费下载**。OALib Journal是一个同行评审的学术期刊，覆盖科学，科技，医学以及人文社科的所有领域。所有发表在 OALib Journal 上的文章都存放在OALib上。OALib 与OALib Journal均由Open Access Library公司管理
+- [MathSciNet（美国数学学会《数学评论》）](http://www.ams.org/mathscinet)美国数学协会AMS • 美国数学学会（American Mathematical Society，AMS）美国数学学 会是美国进行数学研究和教育的组织，有不少出版品。汤马斯·费斯 克前往英国时，受到伦敦数学学会的启发而于1888年成立AMS。 AMS以TeX为基础发展了AMS-LaTeX。 AMS出版《数学评论》，这 是数学出版品的评论数据库。AMS也是著名的专业数学书籍出版商 。
+- [数学谱系计划](http://www.genealogy.ams.org) 是一个收集学位论文主题及指导教授谱系的网络数据库。该计划由明尼苏达州立大学教授 Harry B. Coonce 发起，始于1997年秋天。在2002年秋天，由于校 方停止支持，该计划移至北达科塔州立大学。自2003年起 ，该计划也得到美国数学学会与 Clay 数学中心的支持。
 
 ## 搜索引擎
+<a id="markdown-%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E" name="%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E"></a>
 
-### Google
-
-1. 科学上网(梯子请自备)
-2. 镜像
-3. 修改hosts（C:\WINDOWS\system32\drivers\etc ）
-4. 代理
-
-### 谷歌学术
-
-* <https://scholar.google.com>
-
-* 镜像
-  * **思谋学术**：<http://ac.scmor.com/>
-  * <http://dir.scmor.com/>
-
-### 搜狗学术
-
-* <https://scholar.sogou.com/>
-
-### bing学术
-
-* <https://cn.bing.com/academic>
-
-### 百度学术
-
-* <http://xueshu.baidu.com/>
-
-### 360学术
-
-* <http://xueshu.so.com/>
+- Google
+- [谷歌学术](https://scholar.google.com)
+  - 镜像
+    - **思谋学术**：<http://ac.scmor.com/>
+    - <http://dir.scmor.com/>
+- [搜狗学术](https://scholar.sogou.com)
+- [bing学术](https://cn.bing.com/academic)
+- [百度学术](http://xueshu.baidu.com)
+- [360学术](http://xueshu.so.com)
 
 ## 科研社交网络服务
+<a id="markdown-%E7%A7%91%E7%A0%94%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%BB%9C%E6%9C%8D%E5%8A%A1" name="%E7%A7%91%E7%A0%94%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%BB%9C%E6%9C%8D%E5%8A%A1"></a>
 
-### Research gate
-
-* <https://www.researchgate.net>
-ResearchGATE是一个科研社交网络服务网站，于2008年5月上线。网站旨在推动全球范围内的科学合作。用户可以联系同行，了解研究动态，分享科研方法以及交流想法。
-很多文献可以直接下载，其他的可以发邮件给作者请求全文
+- [Research gate](https://www.researchgate.net)是一个科研社交网络服务网站，于2008年5月上线。网站旨在推动全球范围内的科学合作。用户可以联系同行，了解研究动态，分享科研方法以及交流想法。很多文献可以直接下载，其他的可以发邮件给作者请求全文
 
 ## 论坛
+<a id="markdown-%E8%AE%BA%E5%9D%9B" name="%E8%AE%BA%E5%9D%9B"></a>
 
-### 小木虫论坛 - 学术科研第一站
-
-* <http://emuch.net/bbs/>
-
-### mathoverflow
-
-* <http://mathoverflow.net/>
-MathOverflow是StackExchangeNetwork技术问答网站一员,MathOverflow是一个互动数学网站,用户可以在网站免费提交问题,通过这些活动用户可以获取徽章和声望值.这里集聚了世界许多数学领域著名人士,比如大家比较熟悉的华裔数学家陶哲轩会解答大家提出的相关数学问题
-
-### 数学建模与统计建模论坛
-
-* <http://www.mathsccnu.com/forum.php> 有各种数学、统计学、金融数学、精算学的资料，特别是电子
-
-### 美国数学建模特等奖论文
-
-* <http://www.mathsccnu.com>
+- [小木虫论坛 - 学术科研第一站](http://emuch.net/bbs)
+- [mathoverflow](http://mathoverflow.net)是StackExchangeNetwork技术问答网站一员,MathOverflow是一个互动数学网站,用户可以在网站免费提交问题,通过这些活动用户可以获取徽章和声望值.这里集聚了世界许多数学领域著名人士,比如大家比较熟悉的华裔数学家陶哲轩会解答大家提出的相关数学问题
+- [数学建模与统计建模论坛](http://www.mathsccnu.com/forum.php) 有各种数学、统计学、金融数学、精算学的资料，特别是电子
+- [美国数学建模特等奖论文](http://www.mathsccnu.com)
 
 ## 公开课
+<a id="markdown-%E5%85%AC%E5%BC%80%E8%AF%BE" name="%E5%85%AC%E5%BC%80%E8%AF%BE"></a>
 
-### MIT
-
-MIT OpenCourseWare（MIT OCW, 麻省理工学院开放课件）是美国麻省理工学院公开发布其课件的专门网站。该网站旨在为全世界教师、学生和自学者提供免费、 开放的服务，使其能够直接获取和使用MIT的各种课件， 同时建立可供其他大学仿效的发布课件的有效的、标准化模式。 自2002年9月创立至今，MIT OCW一直处于试用阶段，目前能够提供MIT 5所学院约500门课程的课件，课件类型主要包括教学大纲和阅读材料等，已有部分课程提供了详细的课程笔记（Lecture Notes）。 该资源网址 <http://ocw.mit.edu/index.html> 读者可以通过该网址直接登陆和使用，无需注册和任何费用。点击主页导航条内的 Course List、About OCW、Help和 Feedback选项后，可直接进入相应的网页。
-
-### MOOC中国
-
-* <http://www.mooc.cn/>
-MOOC中国是收录全球优秀开放式在线课程的中文慕课网
-
-* <https://www.icourse163.org/>
-中国大学MOOC(慕课) 是国内优质的中文MOOC学习平台，由爱课程网携手网易云课堂打造。平台拥有包括985高校在内提供的千余门课程，其中首批获得认定的国家精品在线课程
-
-### 可汗学院
-
-* <https://www.khanacademy.org/>
-
-### 网易公开课
-
-* <http://open.163.com/>
-
-* 国际名校公开课 <http://open.163.com/ocw/>
-
-### Youtube
-
-* <https://www.youtube.com/>
-
-### B站
-
-* <https://www.bilibili.com/> 众所周知，b站是一个学习网站
-
-### 印度开放课程网站
-
-* <http://nptel.ac.in/>
-
-### 超星学术视频
-
-* <https://ssvideo.superlib.com/>
-
-### 国立交通大学开放式课程 (OpenCourseWare, OCW)
-
-* <http://ocw.nctu.edu.tw/course.php>
+- [MIT OpenCourseWare（MIT OCW, 麻省理工学院开放课件）](http://ocw.mit.edu/index.html)是美国麻省理工学院公开发布其课件的专门网站。该网站旨在为全世界教师、学生和自学者提供免费、 开放的服务，使其能够直接获取和使用MIT的各种课件， 同时建立可供其他大学仿效的发布课件的有效的、标准化模式。 自2002年9月创立至今，MIT OCW一直处于试用阶段，目前能够提供MIT 5所学院约500门课程的课件，课件类型主要包括教学大纲和阅读材料等，已有部分课程提供了详细的课程笔记（Lecture Notes）。 该资源网址 <http://ocw.mit.edu/index.html> 读者可以通过该网址直接登陆和使用，无需注册和任何费用。点击主页导航条内的 Course List、About OCW、Help和 Feedback选项后，可直接进入相应的网页。
+- [MOOC中国](http://www.mooc.cn)是收录全球优秀开放式在线课程的中文慕课网
+  - <https://www.icourse163.org/> 中国大学MOOC(慕课) 是国内优质的中文MOOC学习平台，由爱课程网携手网易云课堂打造。平台拥有包括985高校在内提供的千余门课程，其中首批获得认定的国家精品在线课程
+- [可汗学院](https://www.khanacademy.org)
+- [网易公开课](http://open.163.com)
+  - 国际名校公开课 <http://open.163.com/ocw/>
+- [Youtube](https://www.youtube.com)
+- [B站](https://www.bilibili.com)众所周知，b站是一个学习网站
+- [印度开放课程网站](http://nptel.ac.in)
+- [超星学术视频](https://ssvideo.superlib.com)
+- [国立交通大学开放式课程 (OpenCourseWare, OCW)](http://ocw.nctu.edu.tw/course.php)
 
 ## 图书馆
+<a id="markdown-%E5%9B%BE%E4%B9%A6%E9%A6%86" name="%E5%9B%BE%E4%B9%A6%E9%A6%86"></a>
 
-* [中国图书馆](http://www.nlc.gov.cn/ )
-  * 里面有各种期刊和学位论文（知网，万分等中文数据库）包括中文和外文
-
-* [北大图书馆](http://lib.pku.edu.cn/)
-* [清华图书馆](http://lib.tsinghua.edu.cn/dra/)
-* [西北工业大学图书馆](http://tushuguan.nwpu.edu.cn/)
+- [中国图书馆](http://www.nlc.gov.cn/ ) 里面有各种期刊和学位论文（知网，万分等中文数据库）包括中文和外文
+- [北大图书馆](http://lib.pku.edu.cn/)
+- [清华图书馆](http://lib.tsinghua.edu.cn/dra/)
+- [西北工业大学图书馆](http://tushuguan.nwpu.edu.cn/)
 
 ## 高校课程共享计划
+<a id="markdown-%E9%AB%98%E6%A0%A1%E8%AF%BE%E7%A8%8B%E5%85%B1%E4%BA%AB%E8%AE%A1%E5%88%92" name="%E9%AB%98%E6%A0%A1%E8%AF%BE%E7%A8%8B%E5%85%B1%E4%BA%AB%E8%AE%A1%E5%88%92"></a>
 
-* 维基百科的OpenCourseWare条目列有世界各国大学的开放课程 <http://en.wikipedia.org/wiki/OpenCourseWare>
 
-* [清华大学](https://github.com/PKUanonym/REKCARC-TSC-UHT)
-* [上海交大](https://github.com/CoolPhilChen/SJTU-Courses/)
-* [北京大学](https://lib-pku.github.io/)
-* [浙江大学](https://github.com/QSCTech/zju-icicles)
-  * <https://qsctech.github.io/zju-icicles/>
-* [中山大学](https://github.com/sysuexam/SYSU-Exam)
-* [南京大学](https://github.com/idealclover/NJU-Review-Materials)
-* [东南大学](https://github.com/zjdx1998/seucourseshare)
+- 维基百科的OpenCourseWare条目列有世界各国大学的开放课程 <http://en.wikipedia.org/wiki/OpenCourseWare>
+- [清华大学](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+- [上海交大](https://github.com/CoolPhilChen/SJTU-Courses/)
+- [北京大学](https://lib-pku.github.io/)
+- [浙江大学](https://github.com/QSCTech/zju-icicles)
+  - <https://qsctech.github.io/zju-icicles/>
+- [中山大学](https://github.com/sysuexam/SYSU-Exam)
+- [南京大学](https://github.com/idealclover/NJU-Review-Materials)
+- [东南大学](https://github.com/zjdx1998/seucourseshare)
 
 ## 图书
+<a id="markdown-%E5%9B%BE%E4%B9%A6" name="%E5%9B%BE%E4%B9%A6"></a>
 
-### 谷歌图书
-
-* <http://books.google.com/>
-
-### 全国图书联盟
-
-* <http://www.ucdrs.superlib.net/>
-免费注册。读秀网的镜像
-
-### ZLibrary
-
-* Part of Z-Library project. The world's largest ebook library.
-<http://b-ok.org/> ，<http://booksc.org/,http://en.booksee.org/>
-
-### Library Genesis
-
-* <http://gen.lib.rus.ec/>， <http://libgen.io/> , <https://libgen.pw/>
-
-* 帮助全人类知识无版权传播的计划 - Library Genesis
+- [谷歌图书](http://books.google.com)
+- [全国图书联盟](http://www.ucdrs.superlib.net)免费注册。读秀网的镜像
+- ZLibrary: Part of Z-Library project. The world's largest ebook library.
+  - <http://b-ok.org/>
+  - <http://booksc.org/>
+  - <http://en.booksee.org/>
+- Library Genesis 帮助全人类知识无版权传播的计划
+  - <http://gen.lib.rus.ec/>
+  - <http://libgen.io/>
+  - <https://libgen.pw/>
 
 # POST: Paper submission/论文投稿
+<a id="markdown-post%3A-paper-submission%2F%E8%AE%BA%E6%96%87%E6%8A%95%E7%A8%BF" name="post%3A-paper-submission%2F%E8%AE%BA%E6%96%87%E6%8A%95%E7%A8%BF"></a>
+
 
 ### 一篇文章告诉你：SCI论文投稿流程到底是怎么一回事儿--[网摘]
+<a id="markdown-%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%E5%91%8A%E8%AF%89%E4%BD%A0%EF%BC%9Asci%E8%AE%BA%E6%96%87%E6%8A%95%E7%A8%BF%E6%B5%81%E7%A8%8B%E5%88%B0%E5%BA%95%E6%98%AF%E6%80%8E%E4%B9%88%E4%B8%80%E5%9B%9E%E4%BA%8B%E5%84%BF--%5B%E7%BD%91%E6%91%98%5D" name="%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%E5%91%8A%E8%AF%89%E4%BD%A0%EF%BC%9Asci%E8%AE%BA%E6%96%87%E6%8A%95%E7%A8%BF%E6%B5%81%E7%A8%8B%E5%88%B0%E5%BA%95%E6%98%AF%E6%80%8E%E4%B9%88%E4%B8%80%E5%9B%9E%E4%BA%8B%E5%84%BF--%5B%E7%BD%91%E6%91%98%5D"></a>
+
 
 <ol>
 <li> SCI论文是什么？</li>
@@ -511,16 +354,16 @@ SCI论文，即为被SCI索引收录的期刊所刊登的论文，目前我国�
 
 稿件状态一般有这些：
 
-* Submit New Manuscript
-* Submissions Sent Back to Author
-* Incomplete Submissions
-* Submissions Waiting for Author's Approval
-* Submissions Being Processed
-* Submissions Needing Revision
-* Revisions Sent Back to Author
-* Incomplete Submissions Being Revised
-* Revisions Waiting for Author's Approval
-* Revisions Being Processed、Declined Revisions
+- Submit New Manuscript
+- Submissions Sent Back to Author
+- Incomplete Submissions
+- Submissions Waiting for Author's Approval
+- Submissions Being Processed
+- Submissions Needing Revision
+- Revisions Sent Back to Author
+- Incomplete Submissions Being Revised
+- Revisions Waiting for Author's Approval
+- Revisions Being Processed、Declined Revisions
 
 具体状态一般有如下：
 
@@ -596,7 +439,7 @@ XXX
 
 Adress: School of XXX, XXX University, XXX, XXX, China
 
-E-mail: xxx@example.com
+E-mail: <xxx@example.com>
 
 Mobile: +86 XXXXXXXXXXX（手机号）
 </p>
@@ -690,3 +533,47 @@ The interfacial imperfection causes a reduction in the effective shear modulus.
   
 当你正在看到这里时，是不是对SCI的入门有了一些的认识，让你觉得所谓的“神坛”似乎离你又近了很多呢！但是，也可以看出，想投中一篇SCI，并不是那么容易的事情，所以啊，提高自身实力，才是问题的关键。加油吧，多努力，咬咬牙坚持，争取你的第一篇吧！</p>
 </ol>
+
+### [算法助你发表一些牛逼的论文](https://blog.csdn.net/DaveBobo/article/details/53571764?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-10.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-10.control)
+<a id="markdown-%E7%AE%97%E6%B3%95%E5%8A%A9%E4%BD%A0%E5%8F%91%E8%A1%A8%E4%B8%80%E4%BA%9B%E7%89%9B%E9%80%BC%E7%9A%84%E8%AE%BA%E6%96%87" name="%E7%AE%97%E6%B3%95%E5%8A%A9%E4%BD%A0%E5%8F%91%E8%A1%A8%E4%B8%80%E4%BA%9B%E7%89%9B%E9%80%BC%E7%9A%84%E8%AE%BA%E6%96%87"></a>
+
+
+1. 掌握常见的算法，这些无论在写代码或者在运用论文中非常重要。比如：
+
+- 递推法
+递推是序列计算机中的一种常用算法。它是按照一定的规律来计算序列中的每个项，通常是通过计算机前面的一些项来得出序列中的指定项的值。其思想是把一个复杂的庞大的计算过程转化为简单过程的多次重复，该算法利用了计算机速度快和不知疲倦的机器特点。
+
+- 递归法
+程序调用自身的编程技巧称为递归（recursion）。一个过程或函数在其定义或说明中有直接或间接调用自身的一种方法，它通常把一个大型复杂的问题层层转化为一个与原问题相似的规模较小的问题来求解，递归策略只需少量的程序就可描述出解题过程所需要的多次重复计算，大大地减少了程序的代码量。递归的能力在于用有限的语句来定义对象的无限集合。一般来说，递归需要有边界条件、递归前进段和递归返回段。当边界条件不满足时，递归前进；当边界条件满足时，递归返回。
+注意：
+(1) 递归就是在过程或函数里调用自身;
+(2) 在使用递归策略时，必须有一个明确的递归结束条件，称为递归出口。
+- 穷举法
+穷举法，或称为暴力破解法，其基本思路是：对于要解决的问题，列举出它的所有可能的情况，逐个判断有哪些是符合问题所要求的条件，从而得到问题的解。它也常用于对于密码的破译，即将密码进行逐个推算直到找出真正的密码为止。例如一个已知是四位并且全部由数字组成的密码，其可能共有10000种组合，因此最多尝试10000次就能找到正确的密码。理论上利用这种方法可以破解任何一种密码，问题只在于如何缩短试误时间。因此有些人运用计算机来增加效率，有些人辅以字典来缩小密码组合的范围。
+- 贪心算法
+贪心算法是一种对某些求最优解问题的更简单、更迅速的设计技术。
+用贪心法设计算法的特点是一步一步地进行，常以当前情况为基础根据某个优化测度作最优选择，而不考虑各种可能的整体情况，它省去了为找最优解要穷尽所有可能而必须耗费的大量时间，它采用自顶向下,以迭代的方法做出相继的贪心选择,每做一次贪心选择就将所求问题简化为一个规模更小的子问题, 通过每一步贪心选择,可得到问题的一个最优解，虽然每一步上都要保证能获得局部最优解，但由此产生的全局解有时不一定是最优的，所以贪婪法不要回溯。
+贪婪算法是一种改进了的分级处理方法，其核心是根据题意选取一种量度标准，然后将这多个输入排成这种量度标准所要求的顺序，按这种顺序一次输入一个量，如果这个输入和当前已构成在这种量度意义下的部分最佳解加在一起不能产生一个可行解，则不把此输入加到这部分解中。这种能够得到某种量度意义下最优解的分级处理方法称为贪婪算法。
+对于一个给定的问题，往往可能有好几种量度标准。初看起来，这些量度标准似乎都是可取的，但实际上，用其中的大多数量度标准作贪婪处理所得到该量度意义下的最优解并不是问题的最优解，而是次优解。因此，选择能产生问题最优解的最优量度标准是使用贪婪算法的核心。
+一般情况下，要选出最优量度标准并不是一件容易的事，但对某问题能选择出最优量度标准后，用贪婪算法求解则特别有效。
+- 分治法
+分治法是把一个复杂的问题分成两个或更多的相同或相似的子问题，再把子问题分成更小的子问题……直到最后子问题可以简单的直接求解，原问题的解即子问题的解的合并。
+分治法所能解决的问题一般具有以下几个特征：
+(1) 该问题的规模缩小到一定的程度就可以容易地解决；
+(2) 该问题可以分解为若干个规模较小的相同问题，即该问题具有最优子结构性质；
+(3) 利用该问题分解出的子问题的解可以合并为该问题的解；
+(4) 该问题所分解出的各个子问题是相互独立的，即子问题之间不包含公共的子子问题。
+- 动态规划法
+动态规划是一种在数学和计算机科学中使用的，用于求解包含重叠子问题的最优化问题的方法。其基本思想是，将原问题分解为相似的子问题，在求解的过程中通过子问题的解求出原问题的解。动态规划的思想是多种算法的基础，被广泛应用于计算机科学和工程领域。
+动态规划程序设计是对解最优化问题的一种途径、一种方法，而不是一种特殊算法。不象前面所述的那些搜索或数值计算那样，具有一个标准的数学表达式和明确清晰的解题方法。动态规划程序设计往往是针对一种最优化问题，由于各种问题的性质不同，确定最优解的条件也互不相同，因而动态规划的设计方法对不同的问题，有各具特色的解题方法，而不存在一种万能的动态规划算法，可以解决各类最优化问题。因此读者在学习时，除了要对基本概念和方法正确理解外，必须具体问题具体分析处理，以丰富的想象力去建立模型，用创造性的技巧去求解。
+- 迭代法
+迭代法也称辗转法，是一种不断用变量的旧值递推新值的过程，跟迭代法相对应的是直接法（或者称为一次解法），即一次性解决问题。迭代法又分为精确迭代和近似迭代。“二分法”和“牛顿迭代法”属于近似迭代法。迭代算法是用计算机解决问题的一种基本方法。它利用计算机运算速度快、适合做重复性操作的特点，让计算机对一组指令（或一定步骤）进行重复执行，在每次执行这组指令（或这些步骤）时，都从变量的原值推出它的一个新值。
+- 分支界限法
+分枝界限法是一个用途十分广泛的算法，运用这种算法的技巧性很强，不同类型的问题解法也各不相同。
+分支定界法的基本思想是对有约束条件的最优化问题的所有可行解（数目有限）空间进行搜索。该算法在具体执行时，把全部可行的解空间不断分割为越来越小的子集（称为分支），并为每个子集内的解的值计算一个下界或上界（称为定界）。在每次分支后，对凡是界限超出已知可行解值那些子集不再做进一步分支，这样，解的许多子集（即搜索树上的许多结点）就可以不予考虑了，从而缩小了搜索范围。这一过程一直进行到找出可行解为止，该可行解的值不大于任何子集的界限。因此这种算法一般可以求得最优解。
+与贪心算法一样，这种方法也是用来为组合优化问题设计求解算法的，所不同的是它在问题的整个可能解空间搜索，所设计出来的算法虽其时间复杂度比贪婪算法高，但它的优点是与穷举法类似，都能保证求出问题的最佳解，而且这种方法不是盲目的穷举搜索，而是在搜索过程中通过限界，可以中途停止对某些不可能得到最优解的子空间进一步搜索（类似于人工智能中的剪枝），故它比穷举法效率更高。
+- 回溯法
+回溯法（探索与回溯法）是一种选优搜索法，按选优条件向前搜索，以达到目标。但当探索到某一步时，发现原先选择并不优或达不到目标，就退回一步重新选择，这种走不通就退回再走的技术为回溯法，而满足回溯条件的某个状态的点称为“回溯点”。
+其基本思想是，在包含问题的所有解的解空间树中，按照深度优先搜索的策略，从根结点出发深度探索解空间树。当探索到某一结点时，要先判断该结点是否包含问题的解，如果包含，就从该结点出发继续探索下去，如果该结点不包含问题的解，则逐层向其祖先结点回溯。（其实回溯法就是对隐式图的深度优先搜索算法）。若用回溯法求问题的所有解时，要回溯到根，且根结点的所有可行的子树都要已被搜索遍才结束。而若使用回溯法求任一个解时，只要搜索到问题的一个解就可以结束。
+
+2. 大家多多留意一些主流的方向。我是IT的，比如当前的云计算，物联网，移动互联网，智慧城市什么的，大家在写论文中，只要把以上点子运用到论文中，就可以发表一篇很牛的文章，这就是通俗的学科交叉，很容易创新的额。。。。
