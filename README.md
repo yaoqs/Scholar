@@ -5,33 +5,8 @@
 Scientific/Academic/Scholarly Research. 科研学术 \
 Document Retrieval; Documentation Retrieval; Literature Search; Literature Retrieval.文献检索
 
-<!-- TOC -->
 
-- [Scholar](#scholar)
-    - [Contact](#contact)
-    - [License & Copyright](#license--copyright)
-- [基金申请/Proposal](#%E5%9F%BA%E9%87%91%E7%94%B3%E8%AF%B7proposal)
-- [Journal/期刊、会议](#journal%E6%9C%9F%E5%88%8A%E4%BC%9A%E8%AE%AE)
-    - [公认的世界四大名刊](#%E5%85%AC%E8%AE%A4%E7%9A%84%E4%B8%96%E7%95%8C%E5%9B%9B%E5%A4%A7%E5%90%8D%E5%88%8A)
-    - [MIT Technology review 麻省理工技术评论](#mit-technology-review-%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E6%8A%80%E6%9C%AF%E8%AF%84%E8%AE%BA)
-    - [各领域期刊会议](#%E5%90%84%E9%A2%86%E5%9F%9F%E6%9C%9F%E5%88%8A%E4%BC%9A%E8%AE%AE)
-- [GET: Search for papers/科研文献检索](#get-search-for-papers%E7%A7%91%E7%A0%94%E6%96%87%E7%8C%AE%E6%A3%80%E7%B4%A2)
-    - [专业引文索引介绍](#%E4%B8%93%E4%B8%9A%E5%BC%95%E6%96%87%E7%B4%A2%E5%BC%95%E4%BB%8B%E7%BB%8D)
-    - [出版机构](#%E5%87%BA%E7%89%88%E6%9C%BA%E6%9E%84)
-    - [订阅](#%E8%AE%A2%E9%98%85)
-    - [检索](#%E6%A3%80%E7%B4%A2)
-    - [搜索引擎](#%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E)
-    - [科研社交网络服务](#%E7%A7%91%E7%A0%94%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%BB%9C%E6%9C%8D%E5%8A%A1)
-    - [论坛](#%E8%AE%BA%E5%9D%9B)
-    - [公开课](#%E5%85%AC%E5%BC%80%E8%AF%BE)
-    - [图书馆](#%E5%9B%BE%E4%B9%A6%E9%A6%86)
-    - [高校课程共享计划](#%E9%AB%98%E6%A0%A1%E8%AF%BE%E7%A8%8B%E5%85%B1%E4%BA%AB%E8%AE%A1%E5%88%92)
-    - [图书](#%E5%9B%BE%E4%B9%A6)
-- [POST: Paper submission/论文投稿](#post-paper-submission%E8%AE%BA%E6%96%87%E6%8A%95%E7%A8%BF)
-        - [一篇文章告诉你：SCI论文投稿流程到底是怎么一回事儿--[网摘]](#%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%E5%91%8A%E8%AF%89%E4%BD%A0sci%E8%AE%BA%E6%96%87%E6%8A%95%E7%A8%BF%E6%B5%81%E7%A8%8B%E5%88%B0%E5%BA%95%E6%98%AF%E6%80%8E%E4%B9%88%E4%B8%80%E5%9B%9E%E4%BA%8B%E5%84%BF--%E7%BD%91%E6%91%98)
-        - [算法助你发表一些牛逼的论文](#%E7%AE%97%E6%B3%95%E5%8A%A9%E4%BD%A0%E5%8F%91%E8%A1%A8%E4%B8%80%E4%BA%9B%E7%89%9B%E9%80%BC%E7%9A%84%E8%AE%BA%E6%96%87)
 
-<!-- /TOC -->
 ## [Contact](https://github.com/yaoqs)
 <a id="markdown-contact" name="contact"></a>
 
@@ -50,16 +25,16 @@ Document Retrieval; Documentation Retrieval; Literature Search; Literature Retri
 [![Stargazers over time](https://starchart.cc/yaoqs/Scholar.svg?variant=adaptive)](https://starchart.cc/yaoqs/Scholar)
 
 
-# 基金申请/Proposal
+## 基金申请/Proposal
 <a id="markdown-%E5%9F%BA%E9%87%91%E7%94%B3%E8%AF%B7%2Fproposal" name="%E5%9F%BA%E9%87%91%E7%94%B3%E8%AF%B7%2Fproposal"></a>
 
 - [国家自然科学基金](https://www.nsfc.gov.cn/)
 
-# Journal/期刊、会议
+## Journal/期刊、会议
 <a id="markdown-journal%2F%E6%9C%9F%E5%88%8A%E3%80%81%E4%BC%9A%E8%AE%AE" name="journal%2F%E6%9C%9F%E5%88%8A%E3%80%81%E4%BC%9A%E8%AE%AE"></a>
 
 
-## 公认的世界四大名刊
+### 公认的世界四大名刊
 <a id="markdown-%E5%85%AC%E8%AE%A4%E7%9A%84%E4%B8%96%E7%95%8C%E5%9B%9B%E5%A4%A7%E5%90%8D%E5%88%8A" name="%E5%85%AC%E8%AE%A4%E7%9A%84%E4%B8%96%E7%95%8C%E5%9B%9B%E5%A4%A7%E5%90%8D%E5%88%8A"></a>
 
 
@@ -75,13 +50,13 @@ Document Retrieval; Documentation Retrieval; Literature Search; Literature Retri
   - <https://www.pnas.org/>
   - PNAS《美国科学院院报》（Proceedings of the National Academy of Sciences of the United States of America）是被引用次数最多的 综合学科文献之一，它是美国国家科学院的院刊，自1914年创刊 至今，PNAS提供具有高水平的前沿研究报告、学术评论、学科回顾及前瞻、学术论文以及美国国家科学学会学术动态的报道和 出版。PNAS收录的文献涵盖医学、化学、生物、物理、大气科学、生态学和社会科学、数据科学等。
 
-## MIT Technology review 麻省理工技术评论
+### MIT Technology review 麻省理工技术评论
 <a id="markdown-mit-technology-review-%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E6%8A%80%E6%9C%AF%E8%AF%84%E8%AE%BA" name="mit-technology-review-%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E6%8A%80%E6%9C%AF%E8%AF%84%E8%AE%BA"></a>
 
 
 - <https://www.technologyreview.com/>
 
-## 各领域期刊会议
+### 各领域期刊会议
 <a id="markdown-%E5%90%84%E9%A2%86%E5%9F%9F%E6%9C%9F%E5%88%8A%E4%BC%9A%E8%AE%AE" name="%E5%90%84%E9%A2%86%E5%9F%9F%E6%9C%9F%E5%88%8A%E4%BC%9A%E8%AE%AE"></a>
 
 
@@ -90,7 +65,7 @@ Document Retrieval; Documentation Retrieval; Literature Search; Literature Retri
 - Acoustics/声学 <https://yaoqs.github.io/Acoustics/>
 - 其他待补充...
 
-# GET: Search for papers/科研文献检索
+## GET: Search for papers/科研文献检索
 <a id="markdown-get%3A-search-for-papers%2F%E7%A7%91%E7%A0%94%E6%96%87%E7%8C%AE%E6%A3%80%E7%B4%A2" name="get%3A-search-for-papers%2F%E7%A7%91%E7%A0%94%E6%96%87%E7%8C%AE%E6%A3%80%E7%B4%A2"></a>
 
 
@@ -106,7 +81,7 @@ Document Retrieval; Documentation Retrieval; Literature Search; Literature Retri
 - 淘宝网代下载论文电子书，代下视频，代复印国家图书馆的藏书
 - 购买实体书，淘宝海外代购
 
-## 专业引文索引介绍
+### 专业引文索引介绍
 <a id="markdown-%E4%B8%93%E4%B8%9A%E5%BC%95%E6%96%87%E7%B4%A2%E5%BC%95%E4%BB%8B%E7%BB%8D" name="%E4%B8%93%E4%B8%9A%E5%BC%95%E6%96%87%E7%B4%A2%E5%BC%95%E4%BB%8B%E7%BB%8D"></a>
 
 
@@ -155,7 +130,7 @@ SCI(科学引文索引)、EI(工程索引)、ISTP(科技会议录索引) 是世�
     - 武汉大学中国科学评价研究中心中国核心期刊目录（RCCSE）
     - 中国引文数据库（CCD）
 
-## 出版机构
+### 出版机构
 <a id="markdown-%E5%87%BA%E7%89%88%E6%9C%BA%E6%9E%84" name="%E5%87%BA%E7%89%88%E6%9C%BA%E6%9E%84"></a>
 
 
@@ -168,12 +143,12 @@ SCI(科学引文索引)、EI(工程索引)、ISTP(科技会议录索引) 是世�
 - [Walter de Gruyter](http://www.degruyter.com) 沃尔特·德·格鲁伊特（Walter de Gruyter）出版社是德国历史最为悠久的学术出版社之一。自从1746年弗里德里希大帝赐予柏林皇家现代学校执照用来开办书店、印刷和出售“有价值和鼓舞人心”的书籍的时候，出版社一直蓬勃发展，直到具备今天的规模。Walter de Gruyter出版的学术著作，范围非常广泛，涉及杂志期刊、多卷数参考文献、网络在线数据库、高 层次学术专著、手册、法学评论和学生教科书等等。出版内容涵盖人文，医学，数学，自然科学，和法律等领域。大约40%的书目是英文书目，集 团每年出版500多种图书、100多种杂志期刊和日渐增多的电子产品。 Walter de Gruyter系列数学经典著作与GTM数学经典著作类似，出版数学 专业书籍，包括入门级丛书至最高难度的学术专著。出版物以英语为主。 数学项目中包括已经非常成熟的丛书系列如“Studies in Mathematics ”和 “Expositions in Mathematics”。
 - [arxiv.org](https://arxiv.org) 电子**预印**版论文。康奈尔大学。用于发表和查阅**前沿、最新idea**手稿，非正式论文，避免直接投期刊或者会议经过漫长的等待后出现不可预知的情况，同时查阅相关领域最新idea，甚至可以直接引用它。领域涵盖物理学、数学、非线性科学、计算机科学、定量生命科学、计量金融学和统计学。发表arXiv的论文不需要通过审核，因此被用作发表手稿或者预出版的论文。由于论文的审核工作一般需要几个月的时间，最新的研究结果发表到学术期刊上时已经失去了一定的时效性。由于论文没有通过审核，许多idea未经同行评审，同时其中不可避免地存在大量的民科，读者应当更加谨慎地对待。访问和下载arXiv上的文献是完全免费的，不需要登录或者其他形式的认证。
 
-## 订阅
+### 订阅
 <a id="markdown-%E8%AE%A2%E9%98%85" name="%E8%AE%A2%E9%98%85"></a>
 
 - [readpaper](https://readpaper.com/)
 
-## 检索
+### 检索
 <a id="markdown-%E6%A3%80%E7%B4%A2" name="%E6%A3%80%E7%B4%A2"></a>
 
 - [SCI/SSCI检索界面](http://isiknowledge.com) 查询SCI期刊以及分区 <http://www.letpub.com.cn/index.php?page=journalapp> 以及被Web of Science数据库的的引用情况
@@ -232,7 +207,7 @@ SCI(科学引文索引)、EI(工程索引)、ISTP(科技会议录索引) 是世�
 - [MathSciNet（美国数学学会《数学评论》）](http://www.ams.org/mathscinet)美国数学协会AMS • 美国数学学会（American Mathematical Society，AMS）美国数学学 会是美国进行数学研究和教育的组织，有不少出版品。汤马斯·费斯 克前往英国时，受到伦敦数学学会的启发而于1888年成立AMS。 AMS以TeX为基础发展了AMS-LaTeX。 AMS出版《数学评论》，这 是数学出版品的评论数据库。AMS也是著名的专业数学书籍出版商 。
 - [数学谱系计划](http://www.genealogy.ams.org) 是一个收集学位论文主题及指导教授谱系的网络数据库。该计划由明尼苏达州立大学教授 Harry B. Coonce 发起，始于1997年秋天。在2002年秋天，由于校 方停止支持，该计划移至北达科塔州立大学。自2003年起 ，该计划也得到美国数学学会与 Clay 数学中心的支持。
 
-## 搜索引擎
+### 搜索引擎
 <a id="markdown-%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E" name="%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E"></a>
 
 - Google
@@ -245,12 +220,12 @@ SCI(科学引文索引)、EI(工程索引)、ISTP(科技会议录索引) 是世�
 - [百度学术](http://xueshu.baidu.com)
 - [360学术](http://xueshu.so.com)
 
-## 科研社交网络服务
+### 科研社交网络服务
 <a id="markdown-%E7%A7%91%E7%A0%94%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%BB%9C%E6%9C%8D%E5%8A%A1" name="%E7%A7%91%E7%A0%94%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%BB%9C%E6%9C%8D%E5%8A%A1"></a>
 
 - [Research gate](https://www.researchgate.net)是一个科研社交网络服务网站，于2008年5月上线。网站旨在推动全球范围内的科学合作。用户可以联系同行，了解研究动态，分享科研方法以及交流想法。很多文献可以直接下载，其他的可以发邮件给作者请求全文
 
-## 论坛
+### 论坛
 <a id="markdown-%E8%AE%BA%E5%9D%9B" name="%E8%AE%BA%E5%9D%9B"></a>
 
 - [小木虫论坛 - 学术科研第一站](http://emuch.net/bbs)
@@ -258,7 +233,7 @@ SCI(科学引文索引)、EI(工程索引)、ISTP(科技会议录索引) 是世�
 - [数学建模与统计建模论坛](http://www.mathsccnu.com/forum.php) 有各种数学、统计学、金融数学、精算学的资料，特别是电子
 - [美国数学建模特等奖论文](http://www.mathsccnu.com)
 
-## 公开课
+### 公开课
 <a id="markdown-%E5%85%AC%E5%BC%80%E8%AF%BE" name="%E5%85%AC%E5%BC%80%E8%AF%BE"></a>
 
 - [MIT OpenCourseWare（MIT OCW, 麻省理工学院开放课件）](http://ocw.mit.edu/index.html)是美国麻省理工学院公开发布其课件的专门网站。该网站旨在为全世界教师、学生和自学者提供免费、 开放的服务，使其能够直接获取和使用MIT的各种课件， 同时建立可供其他大学仿效的发布课件的有效的、标准化模式。 自2002年9月创立至今，MIT OCW一直处于试用阶段，目前能够提供MIT 5所学院约500门课程的课件，课件类型主要包括教学大纲和阅读材料等，已有部分课程提供了详细的课程笔记（Lecture Notes）。 该资源网址 <http://ocw.mit.edu/index.html> 读者可以通过该网址直接登陆和使用，无需注册和任何费用。点击主页导航条内的 Course List、About OCW、Help和 Feedback选项后，可直接进入相应的网页。
@@ -273,7 +248,7 @@ SCI(科学引文索引)、EI(工程索引)、ISTP(科技会议录索引) 是世�
 - [超星学术视频](https://ssvideo.superlib.com)
 - [国立交通大学开放式课程 (OpenCourseWare, OCW)](http://ocw.nctu.edu.tw/course.php)
 
-## 图书馆
+### 图书馆
 <a id="markdown-%E5%9B%BE%E4%B9%A6%E9%A6%86" name="%E5%9B%BE%E4%B9%A6%E9%A6%86"></a>
 
 - [中国图书馆](http://www.nlc.gov.cn/ ) 里面有各种期刊和学位论文（知网，万分等中文数据库）包括中文和外文
@@ -281,7 +256,7 @@ SCI(科学引文索引)、EI(工程索引)、ISTP(科技会议录索引) 是世�
 - [清华图书馆](http://lib.tsinghua.edu.cn/dra/)
 - [西北工业大学图书馆](http://tushuguan.nwpu.edu.cn/)
 
-## 高校课程共享计划
+### 高校课程共享计划
 <a id="markdown-%E9%AB%98%E6%A0%A1%E8%AF%BE%E7%A8%8B%E5%85%B1%E4%BA%AB%E8%AE%A1%E5%88%92" name="%E9%AB%98%E6%A0%A1%E8%AF%BE%E7%A8%8B%E5%85%B1%E4%BA%AB%E8%AE%A1%E5%88%92"></a>
 
 
@@ -295,7 +270,7 @@ SCI(科学引文索引)、EI(工程索引)、ISTP(科技会议录索引) 是世�
 - [南京大学](https://github.com/idealclover/NJU-Review-Materials)
 - [东南大学](https://github.com/zjdx1998/seucourseshare)
 
-## 图书
+### 图书
 <a id="markdown-%E5%9B%BE%E4%B9%A6" name="%E5%9B%BE%E4%B9%A6"></a>
 
 - [谷歌图书](http://books.google.com)
@@ -304,7 +279,7 @@ SCI(科学引文索引)、EI(工程索引)、ISTP(科技会议录索引) 是世�
   - <https://z-library.rs/>
 - Library Genesis 帮助全人类知识无版权传播的计划
 
-# POST: Paper submission/论文投稿
+## POST: Paper submission/论文投稿
 <a id="markdown-post%3A-paper-submission%2F%E8%AE%BA%E6%96%87%E6%8A%95%E7%A8%BF" name="post%3A-paper-submission%2F%E8%AE%BA%E6%96%87%E6%8A%95%E7%A8%BF"></a>
 
 
@@ -557,9 +532,9 @@ The interfacial imperfection causes a reduction in the effective shear modulus.
 <li> 你投出去的文章被别人审阅后，不同意，但是审阅人却学到了你的方法或者理论，会不会他拿去用？</li>
 
 <p>这个放心，你投稿日期是有的。如果他学到了你的方法或者理论，先发表了。你就可以给期刊编辑写信，附上自己当初的投稿记录。还是上面那句话，名誉攒起来不容易，丢起来只要一件小事就做到了。可能一下子，就把他打趴下了。
-  
+
 别总是太小心的活着，要大胆的尝试、失败、再尝试。要不你就成功了，要不你就习惯了。
-  
+
 当你正在看到这里时，是不是对SCI的入门有了一些的认识，让你觉得所谓的“神坛”似乎离你又近了很多呢！但是，也可以看出，想投中一篇SCI，并不是那么容易的事情，所以啊，提高自身实力，才是问题的关键。加油吧，多努力，咬咬牙坚持，争取你的第一篇吧！</p>
 </ol>
 
