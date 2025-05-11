@@ -1,22 +1,40 @@
 # Scholar
-<a id="markdown-scholar" name="scholar"></a>
-
 
 Scientific/Academic/Scholarly Research. 科研学术 \
 Document Retrieval; Documentation Retrieval; Literature Search; Literature Retrieval.文献检索
 
+1. [Contact](#contact)
+2. [License \& Copyright](#license--copyright)
+3. [Stargazers over time](#stargazers-over-time)
+4. [基金申请/Proposal](#基金申请proposal)
+5. [Journal/期刊、会议](#journal期刊会议)
+   1. [公认的世界四大名刊](#公认的世界四大名刊)
+   2. [MIT Technology review 麻省理工技术评论](#mit-technology-review-麻省理工技术评论)
+   3. [各领域期刊会议](#各领域期刊会议)
+6. [GET: Search for papers/科研文献检索](#get-search-for-papers科研文献检索)
+   1. [专业引文索引介绍](#专业引文索引介绍)
+   2. [出版机构](#出版机构)
+   3. [订阅](#订阅)
+   4. [检索](#检索)
+   5. [搜索引擎](#搜索引擎)
+   6. [科研社交网络服务](#科研社交网络服务)
+   7. [论坛](#论坛)
+   8. [公开课](#公开课)
+   9. [图书馆](#图书馆)
+   10. [高校课程共享计划](#高校课程共享计划)
+   11. [图书](#图书)
+7. [POST: Paper submission/论文投稿](#post-paper-submission论文投稿)
+   1. [一篇文章告诉你：SCI论文投稿流程到底是怎么一回事儿--\[网摘\]](#一篇文章告诉你sci论文投稿流程到底是怎么一回事儿--网摘)
+   2. [算法助你发表一些牛逼的论文](#算法助你发表一些牛逼的论文)
 
 
 ## [Contact](https://github.com/yaoqs)
-<a id="markdown-contact" name="contact"></a>
-
 
 ## License & Copyright
-<a id="markdown-license-%26-copyright" name="license-%26-copyright"></a>
 
 [![GitHub license](https://badgen.net/github/license/yaoqs/Scholar)](https://github.com/yaoqs/Scholar/blob/master/LICENSE) [![GitHub license](https://img.shields.io/github/license/yaoqs/Scholar.svg)](https://github.com/yaoqs/Scholar/blob/master/LICENSE)
 
-- 版权声明：Copyright © 2021-2024 要庆生. All rights reserved. 未经本人同意请勿转载。经本人同意后转载时请注明出处。
+- 版权声明：Copyright © 2021-2025 要庆生. All rights reserved. 未经本人同意请勿转载。经本人同意后转载时请注明出处。
 - 来源：网络及个人搜集及整理
 - 知识共享许可协议 版权声明：署名，允许他人基于本文进行创作，且必须基于与原先许可协议相同的许可协议分发本文([Creative Commons](http://creativecommons.org/licenses/by-sa/4.0/ ))
 - 业余时间所作，难免有不足及错漏之处，敬请包涵指正，可通过github仓库在线留言或[![Email](http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_01.png)](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=m_L69OroxPj1qqKjrdvq6rX49PY)告知；如需补充其他相关专业信息，亦可邮件通知或github仓库在线留言；同时欢迎各位热心人士star、fork或共同参与维护仓库
@@ -26,17 +44,12 @@ Document Retrieval; Documentation Retrieval; Literature Search; Literature Retri
 
 
 ## 基金申请/Proposal
-<a id="markdown-%E5%9F%BA%E9%87%91%E7%94%B3%E8%AF%B7%2Fproposal" name="%E5%9F%BA%E9%87%91%E7%94%B3%E8%AF%B7%2Fproposal"></a>
 
 - [国家自然科学基金](https://www.nsfc.gov.cn/)
 
 ## Journal/期刊、会议
-<a id="markdown-journal%2F%E6%9C%9F%E5%88%8A%E3%80%81%E4%BC%9A%E8%AE%AE" name="journal%2F%E6%9C%9F%E5%88%8A%E3%80%81%E4%BC%9A%E8%AE%AE"></a>
-
 
 ### 公认的世界四大名刊
-<a id="markdown-%E5%85%AC%E8%AE%A4%E7%9A%84%E4%B8%96%E7%95%8C%E5%9B%9B%E5%A4%A7%E5%90%8D%E5%88%8A" name="%E5%85%AC%E8%AE%A4%E7%9A%84%E4%B8%96%E7%95%8C%E5%9B%9B%E5%A4%A7%E5%90%8D%E5%88%8A"></a>
-
 
 - Nature
   - <https://www.nature.com>
@@ -51,14 +64,10 @@ Document Retrieval; Documentation Retrieval; Literature Search; Literature Retri
   - PNAS《美国科学院院报》（Proceedings of the National Academy of Sciences of the United States of America）是被引用次数最多的 综合学科文献之一，它是美国国家科学院的院刊，自1914年创刊 至今，PNAS提供具有高水平的前沿研究报告、学术评论、学科回顾及前瞻、学术论文以及美国国家科学学会学术动态的报道和 出版。PNAS收录的文献涵盖医学、化学、生物、物理、大气科学、生态学和社会科学、数据科学等。
 
 ### MIT Technology review 麻省理工技术评论
-<a id="markdown-mit-technology-review-%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E6%8A%80%E6%9C%AF%E8%AF%84%E8%AE%BA" name="mit-technology-review-%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E6%8A%80%E6%9C%AF%E8%AF%84%E8%AE%BA"></a>
-
 
 - <https://www.technologyreview.com/>
 
 ### 各领域期刊会议
-<a id="markdown-%E5%90%84%E9%A2%86%E5%9F%9F%E6%9C%9F%E5%88%8A%E4%BC%9A%E8%AE%AE" name="%E5%90%84%E9%A2%86%E5%9F%9F%E6%9C%9F%E5%88%8A%E4%BC%9A%E8%AE%AE"></a>
-
 
 - IEEE <https://www.ieee.org/>
 
@@ -66,8 +75,6 @@ Document Retrieval; Documentation Retrieval; Literature Search; Literature Retri
 - 其他待补充...
 
 ## GET: Search for papers/科研文献检索
-<a id="markdown-get%3A-search-for-papers%2F%E7%A7%91%E7%A0%94%E6%96%87%E7%8C%AE%E6%A3%80%E7%B4%A2" name="get%3A-search-for-papers%2F%E7%A7%91%E7%A0%94%E6%96%87%E7%8C%AE%E6%A3%80%E7%B4%A2"></a>
-
 
 文献获取与免费下载技巧
 
@@ -82,13 +89,11 @@ Document Retrieval; Documentation Retrieval; Literature Search; Literature Retri
 - 购买实体书，淘宝海外代购
 
 ### 专业引文索引介绍
-<a id="markdown-%E4%B8%93%E4%B8%9A%E5%BC%95%E6%96%87%E7%B4%A2%E5%BC%95%E4%BB%8B%E7%BB%8D" name="%E4%B8%93%E4%B8%9A%E5%BC%95%E6%96%87%E7%B4%A2%E5%BC%95%E4%BB%8B%E7%BB%8D"></a>
-
 
 SCI(科学引文索引)、EI(工程索引)、ISTP(科技会议录索引) 是世界著名的三大科技文献检索系统，是国际公认的进行科学统计与科学评价的主要检索工具，其中以SCI最为重要
 
 - SCI
-  - SCI(Science Citation Index)是由美国科学信息研究所(ISI)1961年创办出版的引文数据库。SCI即《科学引文索引》(Science Citation Index），是由美国科学信息研究所（Institute for Scientific Information 简称ISI）创建的，收录文献的作者、题目、源期刊、摘要、关键词，不仅可以从文献引证的角度评估文章的学术价值，还可以迅速方便地组建研究课题的参考文献网络。SCI创刊于1961年。经过40年的发展完善，已从开始时单一的印刷型发展成为功能强大的电子化、集成化、网络化的大型多学科、综合性检索系统。SCI从来源期刊数量划分为SCI和SCI-E。SCI指来源刊为3500多种的SCI印刷版和SCI光盘版（SCI Compact Disc Edition, 简称SCI CDE），SCI-E（SCI Expanded）是SCI的扩展库，收录了5600多种来源期刊，可通过国际联机或因特网进行检索。SCI涵盖学科超过100个，主要涉及农业、生物及环境科学；工程技术及应用科学；医学与生命科学；物理及化学；行为科学。SCI是一部国际性索引，包括有：自然科学、生物 、医学、农业、技术和行为科学等，主要侧重基础科学。所选用的刊物来源于94个类、40多个国家、50多种文字，这些国家主要有美国、英国、 荷兰、德国、俄罗斯、法国、日本、加拿大等，也收录一定数量的中国刊物。
+  - SCI(Science Citation Index)是由美国科学信息研究所(ISI)1961年创办出版的引文数据库。SCI即《科学引文索引》(Science Citation Index)，是由美国科学信息研究所（Institute for Scientific Information 简称ISI）创建的，收录文献的作者、题目、源期刊、摘要、关键词，不仅可以从文献引证的角度评估文章的学术价值，还可以迅速方便地组建研究课题的参考文献网络。SCI创刊于1961年。经过40年的发展完善，已从开始时单一的印刷型发展成为功能强大的电子化、集成化、网络化的大型多学科、综合性检索系统。SCI从来源期刊数量划分为SCI和SCI-E。SCI指来源刊为3500多种的SCI印刷版和SCI光盘版（SCI Compact Disc Edition, 简称SCI CDE），SCI-E（SCI Expanded）是SCI的扩展库，收录了5600多种来源期刊，可通过国际联机或因特网进行检索。SCI涵盖学科超过100个，主要涉及农业、生物及环境科学；工程技术及应用科学；医学与生命科学；物理及化学；行为科学。SCI是一部国际性索引，包括有：自然科学、生物 、医学、农业、技术和行为科学等，主要侧重基础科学。所选用的刊物来源于94个类、40多个国家、50多种文字，这些国家主要有美国、英国、 荷兰、德国、俄罗斯、法国、日本、加拿大等，也收录一定数量的中国刊物。
 - ISTP（科技会议录索引）
   - 《科技会议录索引》（Index to Scientific & Technical Proceedings，简称ISTP）创刊于 1978年，由美国科学情报研究所编辑出版 。该索引收录生命科学、物理与化学科学 、农业、生物和环境科学、工程技术和应 用科学等学科的会议文献，包括一般性会 议、座谈会、研究会、讨论会、发表会等 。其中工程技术与应用科学类文献约占35% ，其他涉及学科基本与SCI相同。
 - EI《工程索引》
@@ -131,8 +136,6 @@ SCI(科学引文索引)、EI(工程索引)、ISTP(科技会议录索引) 是世�
     - 中国引文数据库（CCD）
 
 ### 出版机构
-<a id="markdown-%E5%87%BA%E7%89%88%E6%9C%BA%E6%9E%84" name="%E5%87%BA%E7%89%88%E6%9C%BA%E6%9E%84"></a>
-
 
 - [Springer LINK](https://link.springer.com/) 德国斯普林格(Springer-Verlag)通过SpringerLink系统提供其学术期刊及电子图书的在线服务，该数据库包括了各类期刊、丛书、图书、参考工具书以及回溯文档。Springer Link系统就是通过www发行的电子全文期刊检索系统，该系统目前包括2900多种期刊的电子全文，其中200多种为开放获取期刊。根据期刊涉及的学科范围，LINK将这些电子全文期刊划分成11个出色的《在线图书馆》，分别是：化学、计算机科学、经济学、工程学、环境科学、地理学、法学、生命科学、数学、医学、物理学和天文学
 - [Elsevier电子全文期刊](http://www.sciencedirect.com) 荷兰爱思唯尔（Elsevier Science） 覆盖学科：农业与生命科学、生物化学、遗传学 与分子生物学、化学、化学工程、土木工程、计 算机科学、工程与技术、环境科学、免疫学与微 生物学、材料科学、数学、医学、神经系统科学、 药理学、毒物学与制药学、物理学与天文学、地 球与行星科学、艺术与人文、商业、管理学等。
@@ -144,12 +147,21 @@ SCI(科学引文索引)、EI(工程索引)、ISTP(科技会议录索引) 是世�
 - [arxiv.org](https://arxiv.org) 电子**预印**版论文。康奈尔大学。用于发表和查阅**前沿、最新idea**手稿，非正式论文，避免直接投期刊或者会议经过漫长的等待后出现不可预知的情况，同时查阅相关领域最新idea，甚至可以直接引用它。领域涵盖物理学、数学、非线性科学、计算机科学、定量生命科学、计量金融学和统计学。发表arXiv的论文不需要通过审核，因此被用作发表手稿或者预出版的论文。由于论文的审核工作一般需要几个月的时间，最新的研究结果发表到学术期刊上时已经失去了一定的时效性。由于论文没有通过审核，许多idea未经同行评审，同时其中不可避免地存在大量的民科，读者应当更加谨慎地对待。访问和下载arXiv上的文献是完全免费的，不需要登录或者其他形式的认证。
 
 ### 订阅
-<a id="markdown-%E8%AE%A2%E9%98%85" name="%E8%AE%A2%E9%98%85"></a>
 
 - [readpaper](https://readpaper.com/)
+- [endnote](https://endnote.com/)
+- [clarivate](https://clarivate.com/)
+- [citavi](https://www.citavi.com/)
+- [Real Research](https://realresearcher.com/)
+- [researcher.life](https://researcher.life/)
+- [ivySCI](https://www.ivysci.com/)
+- [readpaper](https://readpaper.com/)
+- [stork](https://www.storkapp.me/)
+- [Researcher](https://www.researcher-app.com/)
+- [Academia.edu](https://independent.academia.edu)
+
 
 ### 检索
-<a id="markdown-%E6%A3%80%E7%B4%A2" name="%E6%A3%80%E7%B4%A2"></a>
 
 - [SCI/SSCI检索界面](http://isiknowledge.com) 查询SCI期刊以及分区 <http://www.letpub.com.cn/index.php?page=journalapp> 以及被Web of Science数据库的的引用情况
 - [Web of Science](http://www.webofscience.com)
@@ -208,7 +220,6 @@ SCI(科学引文索引)、EI(工程索引)、ISTP(科技会议录索引) 是世�
 - [数学谱系计划](http://www.genealogy.ams.org) 是一个收集学位论文主题及指导教授谱系的网络数据库。该计划由明尼苏达州立大学教授 Harry B. Coonce 发起，始于1997年秋天。在2002年秋天，由于校 方停止支持，该计划移至北达科塔州立大学。自2003年起 ，该计划也得到美国数学学会与 Clay 数学中心的支持。
 
 ### 搜索引擎
-<a id="markdown-%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E" name="%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E"></a>
 
 - Google
 - [谷歌学术](https://scholar.google.com)
@@ -221,12 +232,10 @@ SCI(科学引文索引)、EI(工程索引)、ISTP(科技会议录索引) 是世�
 - [360学术](http://xueshu.so.com)
 
 ### 科研社交网络服务
-<a id="markdown-%E7%A7%91%E7%A0%94%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%BB%9C%E6%9C%8D%E5%8A%A1" name="%E7%A7%91%E7%A0%94%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%BB%9C%E6%9C%8D%E5%8A%A1"></a>
 
 - [Research gate](https://www.researchgate.net)是一个科研社交网络服务网站，于2008年5月上线。网站旨在推动全球范围内的科学合作。用户可以联系同行，了解研究动态，分享科研方法以及交流想法。很多文献可以直接下载，其他的可以发邮件给作者请求全文
 
 ### 论坛
-<a id="markdown-%E8%AE%BA%E5%9D%9B" name="%E8%AE%BA%E5%9D%9B"></a>
 
 - [小木虫论坛 - 学术科研第一站](http://emuch.net/bbs)
 - [mathoverflow](http://mathoverflow.net)是StackExchangeNetwork技术问答网站一员,MathOverflow是一个互动数学网站,用户可以在网站免费提交问题,通过这些活动用户可以获取徽章和声望值.这里集聚了世界许多数学领域著名人士,比如大家比较熟悉的华裔数学家陶哲轩会解答大家提出的相关数学问题
@@ -234,7 +243,6 @@ SCI(科学引文索引)、EI(工程索引)、ISTP(科技会议录索引) 是世�
 - [美国数学建模特等奖论文](http://www.mathsccnu.com)
 
 ### 公开课
-<a id="markdown-%E5%85%AC%E5%BC%80%E8%AF%BE" name="%E5%85%AC%E5%BC%80%E8%AF%BE"></a>
 
 - [MIT OpenCourseWare（MIT OCW, 麻省理工学院开放课件）](http://ocw.mit.edu/index.html)是美国麻省理工学院公开发布其课件的专门网站。该网站旨在为全世界教师、学生和自学者提供免费、 开放的服务，使其能够直接获取和使用MIT的各种课件， 同时建立可供其他大学仿效的发布课件的有效的、标准化模式。 自2002年9月创立至今，MIT OCW一直处于试用阶段，目前能够提供MIT 5所学院约500门课程的课件，课件类型主要包括教学大纲和阅读材料等，已有部分课程提供了详细的课程笔记（Lecture Notes）。 该资源网址 <http://ocw.mit.edu/index.html> 读者可以通过该网址直接登陆和使用，无需注册和任何费用。点击主页导航条内的 Course List、About OCW、Help和 Feedback选项后，可直接进入相应的网页。
 - [MOOC中国](http://www.mooc.cn)是收录全球优秀开放式在线课程的中文慕课网
@@ -249,7 +257,6 @@ SCI(科学引文索引)、EI(工程索引)、ISTP(科技会议录索引) 是世�
 - [国立交通大学开放式课程 (OpenCourseWare, OCW)](http://ocw.nctu.edu.tw/course.php)
 
 ### 图书馆
-<a id="markdown-%E5%9B%BE%E4%B9%A6%E9%A6%86" name="%E5%9B%BE%E4%B9%A6%E9%A6%86"></a>
 
 - [中国图书馆](http://www.nlc.gov.cn/ ) 里面有各种期刊和学位论文（知网，万分等中文数据库）包括中文和外文
 - [北大图书馆](http://lib.pku.edu.cn/)
@@ -257,8 +264,6 @@ SCI(科学引文索引)、EI(工程索引)、ISTP(科技会议录索引) 是世�
 - [西北工业大学图书馆](http://tushuguan.nwpu.edu.cn/)
 
 ### 高校课程共享计划
-<a id="markdown-%E9%AB%98%E6%A0%A1%E8%AF%BE%E7%A8%8B%E5%85%B1%E4%BA%AB%E8%AE%A1%E5%88%92" name="%E9%AB%98%E6%A0%A1%E8%AF%BE%E7%A8%8B%E5%85%B1%E4%BA%AB%E8%AE%A1%E5%88%92"></a>
-
 
 - 维基百科的OpenCourseWare条目列有世界各国大学的开放课程 <http://en.wikipedia.org/wiki/OpenCourseWare>
 - [清华大学](https://github.com/PKUanonym/REKCARC-TSC-UHT)
@@ -271,7 +276,6 @@ SCI(科学引文索引)、EI(工程索引)、ISTP(科技会议录索引) 是世�
 - [东南大学](https://github.com/zjdx1998/seucourseshare)
 
 ### 图书
-<a id="markdown-%E5%9B%BE%E4%B9%A6" name="%E5%9B%BE%E4%B9%A6"></a>
 
 - [谷歌图书](http://books.google.com)
 - [全国图书联盟](http://www.ucdrs.superlib.net)免费注册。读秀网的镜像
@@ -280,12 +284,10 @@ SCI(科学引文索引)、EI(工程索引)、ISTP(科技会议录索引) 是世�
 - Library Genesis 帮助全人类知识无版权传播的计划
 
 ## POST: Paper submission/论文投稿
-<a id="markdown-post%3A-paper-submission%2F%E8%AE%BA%E6%96%87%E6%8A%95%E7%A8%BF" name="post%3A-paper-submission%2F%E8%AE%BA%E6%96%87%E6%8A%95%E7%A8%BF"></a>
 
+- [arXiv](https://arxiv.org)
 
 ### 一篇文章告诉你：SCI论文投稿流程到底是怎么一回事儿--[网摘]
-<a id="markdown-%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%E5%91%8A%E8%AF%89%E4%BD%A0%EF%BC%9Asci%E8%AE%BA%E6%96%87%E6%8A%95%E7%A8%BF%E6%B5%81%E7%A8%8B%E5%88%B0%E5%BA%95%E6%98%AF%E6%80%8E%E4%B9%88%E4%B8%80%E5%9B%9E%E4%BA%8B%E5%84%BF--%5B%E7%BD%91%E6%91%98%5D" name="%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%E5%91%8A%E8%AF%89%E4%BD%A0%EF%BC%9Asci%E8%AE%BA%E6%96%87%E6%8A%95%E7%A8%BF%E6%B5%81%E7%A8%8B%E5%88%B0%E5%BA%95%E6%98%AF%E6%80%8E%E4%B9%88%E4%B8%80%E5%9B%9E%E4%BA%8B%E5%84%BF--%5B%E7%BD%91%E6%91%98%5D"></a>
-
 
 <ol>
 <li> SCI论文是什么？</li>
@@ -539,8 +541,6 @@ The interfacial imperfection causes a reduction in the effective shear modulus.
 </ol>
 
 ### [算法助你发表一些牛逼的论文](https://blog.csdn.net/DaveBobo/article/details/53571764?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-10.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-10.control)
-<a id="markdown-%E7%AE%97%E6%B3%95%E5%8A%A9%E4%BD%A0%E5%8F%91%E8%A1%A8%E4%B8%80%E4%BA%9B%E7%89%9B%E9%80%BC%E7%9A%84%E8%AE%BA%E6%96%87" name="%E7%AE%97%E6%B3%95%E5%8A%A9%E4%BD%A0%E5%8F%91%E8%A1%A8%E4%B8%80%E4%BA%9B%E7%89%9B%E9%80%BC%E7%9A%84%E8%AE%BA%E6%96%87"></a>
-
 
 1. 掌握常见的算法，这些无论在写代码或者在运用论文中非常重要。比如：
 
